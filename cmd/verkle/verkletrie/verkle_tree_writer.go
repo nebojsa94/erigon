@@ -8,9 +8,9 @@ import (
 	"github.com/anacrolix/sync"
 	"github.com/gballet/go-verkle"
 	"github.com/holiman/uint256"
-	libcommon "github.com/ledgerwatch/erigon-lib/common"
-	"github.com/ledgerwatch/erigon-lib/etl"
-	"github.com/ledgerwatch/erigon-lib/kv"
+	libcommon "github.com/nebojsa94/erigon-lib/common"
+	"github.com/nebojsa94/erigon-lib/etl"
+	"github.com/nebojsa94/erigon-lib/kv"
 	"github.com/ledgerwatch/log/v3"
 
 	"github.com/nebojsa94/erigon/common"

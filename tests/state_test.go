@@ -27,7 +27,7 @@ import (
 	"runtime"
 	"testing"
 
-	"github.com/ledgerwatch/erigon-lib/common/datadir"
+	"github.com/nebojsa94/erigon-lib/common/datadir"
 	"github.com/nebojsa94/erigon/core/state/temporal"
 	"github.com/ledgerwatch/log/v3"
 

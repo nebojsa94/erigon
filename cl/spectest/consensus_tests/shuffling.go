@@ -10,7 +10,7 @@ import (
 	"github.com/nebojsa94/erigon/cl/phase1/core/state"
 	"github.com/nebojsa94/erigon/cl/phase1/core/state/shuffling"
 
-	"github.com/ledgerwatch/erigon-lib/common"
+	"github.com/nebojsa94/erigon-lib/common"
 	"github.com/nebojsa94/erigon/cl/utils"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"

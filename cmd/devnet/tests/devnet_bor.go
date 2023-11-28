@@ -3,7 +3,7 @@ package tests
 import (
 	"time"
 
-	"github.com/ledgerwatch/erigon-lib/chain/networkname"
+	"github.com/nebojsa94/erigon-lib/chain/networkname"
 	"github.com/nebojsa94/erigon/cmd/devnet/accounts"
 	"github.com/nebojsa94/erigon/cmd/devnet/args"
 	"github.com/nebojsa94/erigon/cmd/devnet/devnet"

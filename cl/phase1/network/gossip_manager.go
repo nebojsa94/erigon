@@ -3,15 +3,15 @@ package network
 import (
 	"context"
 	"fmt"
-	"github.com/ledgerwatch/erigon-lib/common"
+	"github.com/nebojsa94/erigon-lib/common"
 	"sync"
 
 	"github.com/nebojsa94/erigon/cl/freezer"
 	"github.com/nebojsa94/erigon/cl/phase1/forkchoice"
 	"github.com/nebojsa94/erigon/cl/sentinel/peers"
 
-	"github.com/ledgerwatch/erigon-lib/gointerfaces/sentinel"
-	"github.com/ledgerwatch/erigon-lib/types/ssz"
+	"github.com/nebojsa94/erigon-lib/gointerfaces/sentinel"
+	"github.com/nebojsa94/erigon-lib/types/ssz"
 	"github.com/nebojsa94/erigon/cl/clparams"
 	"github.com/nebojsa94/erigon/cl/cltypes"
 	"github.com/nebojsa94/erigon/cl/utils"

@@ -6,7 +6,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/ledgerwatch/erigon-lib/gointerfaces"
+	"github.com/nebojsa94/erigon-lib/gointerfaces"
 	"github.com/nebojsa94/erigon/consensus/bor/heimdall"
 	"github.com/ledgerwatch/log/v3"
 	proto "github.com/maticnetwork/polyproto/heimdall"

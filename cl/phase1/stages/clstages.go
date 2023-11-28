@@ -6,9 +6,9 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/ledgerwatch/erigon-lib/common"
-	"github.com/ledgerwatch/erigon-lib/common/dbg"
-	"github.com/ledgerwatch/erigon-lib/kv"
+	"github.com/nebojsa94/erigon-lib/common"
+	"github.com/nebojsa94/erigon-lib/common/dbg"
+	"github.com/nebojsa94/erigon-lib/kv"
 	"github.com/nebojsa94/erigon/cl/antiquary"
 	"github.com/nebojsa94/erigon/cl/beacon/synced_data"
 	"github.com/nebojsa94/erigon/cl/clparams"

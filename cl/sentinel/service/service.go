@@ -12,12 +12,12 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ledgerwatch/erigon-lib/diagnostics"
+	"github.com/nebojsa94/erigon-lib/diagnostics"
 	"github.com/nebojsa94/erigon/cl/sentinel"
 	"github.com/nebojsa94/erigon/cl/sentinel/httpreqresp"
 
-	"github.com/ledgerwatch/erigon-lib/gointerfaces"
-	sentinelrpc "github.com/ledgerwatch/erigon-lib/gointerfaces/sentinel"
+	"github.com/nebojsa94/erigon-lib/gointerfaces"
+	sentinelrpc "github.com/nebojsa94/erigon-lib/gointerfaces/sentinel"
 	"github.com/nebojsa94/erigon/cl/cltypes"
 	"github.com/nebojsa94/erigon/cl/utils"
 	"github.com/ledgerwatch/log/v3"

@@ -3,11 +3,11 @@ package solid
 import (
 	"encoding/json"
 
-	libcommon "github.com/ledgerwatch/erigon-lib/common"
-	"github.com/ledgerwatch/erigon-lib/common/hexutility"
-	"github.com/ledgerwatch/erigon-lib/common/length"
-	"github.com/ledgerwatch/erigon-lib/types/clonable"
-	"github.com/ledgerwatch/erigon-lib/types/ssz"
+	libcommon "github.com/nebojsa94/erigon-lib/common"
+	"github.com/nebojsa94/erigon-lib/common/hexutility"
+	"github.com/nebojsa94/erigon-lib/common/length"
+	"github.com/nebojsa94/erigon-lib/types/clonable"
+	"github.com/nebojsa94/erigon-lib/types/ssz"
 	"github.com/nebojsa94/erigon/cl/merkle_tree"
 )
 

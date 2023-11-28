@@ -6,7 +6,7 @@ import (
 	"context"
 	"testing"
 
-	"github.com/ledgerwatch/erigon-lib/chain/networkname"
+	"github.com/nebojsa94/erigon-lib/chain/networkname"
 	accounts_steps "github.com/nebojsa94/erigon/cmd/devnet/accounts/steps"
 	contracts_steps "github.com/nebojsa94/erigon/cmd/devnet/contracts/steps"
 	"github.com/nebojsa94/erigon/cmd/devnet/requests"

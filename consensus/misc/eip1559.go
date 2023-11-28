@@ -20,8 +20,8 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/ledgerwatch/erigon-lib/chain"
-	"github.com/ledgerwatch/erigon-lib/common"
+	"github.com/nebojsa94/erigon-lib/chain"
+	"github.com/nebojsa94/erigon-lib/common"
 
 	"github.com/nebojsa94/erigon/common/math"
 	"github.com/nebojsa94/erigon/core/types"

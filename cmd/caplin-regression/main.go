@@ -2,7 +2,7 @@ package main
 
 import (
 	"flag"
-	"github.com/ledgerwatch/erigon-lib/metrics"
+	"github.com/nebojsa94/erigon-lib/metrics"
 	"github.com/nebojsa94/erigon/cl/cltypes"
 	"github.com/nebojsa94/erigon/cl/phase1/forkchoice"
 

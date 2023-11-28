@@ -3,8 +3,8 @@ package whitelist
 import (
 	"github.com/ledgerwatch/log/v3"
 
-	"github.com/ledgerwatch/erigon-lib/common"
-	"github.com/ledgerwatch/erigon-lib/metrics"
+	"github.com/nebojsa94/erigon-lib/common"
+	"github.com/nebojsa94/erigon-lib/metrics"
 	"github.com/nebojsa94/erigon/consensus/bor/finality/flags"
 	"github.com/nebojsa94/erigon/consensus/bor/finality/rawdb"
 	"github.com/nebojsa94/erigon/core/types"

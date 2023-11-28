@@ -7,7 +7,7 @@ import (
 	"math/big"
 	"strings"
 
-	libcommon "github.com/ledgerwatch/erigon-lib/common"
+	libcommon "github.com/nebojsa94/erigon-lib/common"
 
 	ethereum "github.com/nebojsa94/erigon"
 	"github.com/nebojsa94/erigon/accounts/abi"

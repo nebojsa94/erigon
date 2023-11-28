@@ -25,8 +25,8 @@ import (
 	"time"
 
 	"github.com/holiman/uint256"
-	"github.com/ledgerwatch/erigon-lib/chain"
-	libcommon "github.com/ledgerwatch/erigon-lib/common"
+	"github.com/nebojsa94/erigon-lib/chain"
+	libcommon "github.com/nebojsa94/erigon-lib/common"
 
 	"github.com/nebojsa94/erigon/core/state"
 	"github.com/nebojsa94/erigon/core/vm"

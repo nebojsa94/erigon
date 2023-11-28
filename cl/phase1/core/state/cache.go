@@ -11,8 +11,8 @@ import (
 	"github.com/nebojsa94/erigon/cl/phase1/core/state/raw"
 	shuffling2 "github.com/nebojsa94/erigon/cl/phase1/core/state/shuffling"
 
-	"github.com/ledgerwatch/erigon-lib/common"
-	libcommon "github.com/ledgerwatch/erigon-lib/common"
+	"github.com/nebojsa94/erigon-lib/common"
+	libcommon "github.com/nebojsa94/erigon-lib/common"
 	"github.com/nebojsa94/erigon/cl/clparams"
 	"github.com/nebojsa94/erigon/cl/utils"
 )

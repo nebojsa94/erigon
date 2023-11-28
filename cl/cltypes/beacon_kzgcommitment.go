@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 
 	gokzg4844 "github.com/crate-crypto/go-kzg-4844"
-	libcommon "github.com/ledgerwatch/erigon-lib/common"
+	libcommon "github.com/nebojsa94/erigon-lib/common"
 	"github.com/nebojsa94/erigon/cl/merkle_tree"
 	ssz2 "github.com/nebojsa94/erigon/cl/ssz"
 )

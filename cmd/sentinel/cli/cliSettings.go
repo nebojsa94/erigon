@@ -10,9 +10,9 @@ import (
 	"github.com/nebojsa94/erigon/cl/clparams"
 	"github.com/nebojsa94/erigon/cl/phase1/core/state"
 
-	common2 "github.com/ledgerwatch/erigon-lib/common"
+	common2 "github.com/nebojsa94/erigon-lib/common"
 
-	"github.com/ledgerwatch/erigon-lib/common/datadir"
+	"github.com/nebojsa94/erigon-lib/common/datadir"
 	"github.com/nebojsa94/erigon/common"
 
 	"github.com/nebojsa94/erigon/cmd/utils"

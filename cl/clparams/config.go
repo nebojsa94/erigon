@@ -21,9 +21,9 @@ import (
 	"os"
 	"time"
 
-	"github.com/ledgerwatch/erigon-lib/chain/networkname"
-	libcommon "github.com/ledgerwatch/erigon-lib/common"
-	"github.com/ledgerwatch/erigon-lib/types/ssz"
+	"github.com/nebojsa94/erigon-lib/chain/networkname"
+	libcommon "github.com/nebojsa94/erigon-lib/common"
+	"github.com/nebojsa94/erigon-lib/types/ssz"
 	"gopkg.in/yaml.v2"
 
 	"github.com/nebojsa94/erigon/cl/utils"

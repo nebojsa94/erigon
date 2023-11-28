@@ -3,8 +3,8 @@ package cltypes_test
 import (
 	"testing"
 
-	libcommon "github.com/ledgerwatch/erigon-lib/common"
-	"github.com/ledgerwatch/erigon-lib/types/ssz"
+	libcommon "github.com/nebojsa94/erigon-lib/common"
+	"github.com/nebojsa94/erigon-lib/types/ssz"
 	"github.com/stretchr/testify/require"
 
 	"github.com/nebojsa94/erigon/cl/clparams"

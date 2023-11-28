@@ -14,8 +14,8 @@ import (
 	"time"
 
 	ethereum "github.com/nebojsa94/erigon"
-	libcommon "github.com/ledgerwatch/erigon-lib/common"
-	"github.com/ledgerwatch/erigon-lib/common/hexutility"
+	libcommon "github.com/nebojsa94/erigon-lib/common"
+	"github.com/nebojsa94/erigon-lib/common/hexutility"
 	"github.com/nebojsa94/erigon/cmd/devnet/devnetutils"
 	"github.com/nebojsa94/erigon/core/types"
 	"github.com/nebojsa94/erigon/p2p"

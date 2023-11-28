@@ -1,8 +1,8 @@
 package forkchoice
 
 import (
-	"github.com/ledgerwatch/erigon-lib/common"
-	libcommon "github.com/ledgerwatch/erigon-lib/common"
+	"github.com/nebojsa94/erigon-lib/common"
+	libcommon "github.com/nebojsa94/erigon-lib/common"
 	"github.com/nebojsa94/erigon/cl/cltypes"
 	"github.com/nebojsa94/erigon/cl/cltypes/solid"
 	state2 "github.com/nebojsa94/erigon/cl/phase1/core/state"

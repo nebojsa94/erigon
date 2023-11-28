@@ -10,7 +10,7 @@ import (
 	"sync/atomic"
 
 	"github.com/hashicorp/golang-lru/v2"
-	libcommon "github.com/ledgerwatch/erigon-lib/common"
+	libcommon "github.com/nebojsa94/erigon-lib/common"
 	"github.com/ledgerwatch/log/v3"
 
 	"github.com/nebojsa94/erigon/accounts/abi"

@@ -1,7 +1,7 @@
 package machine
 
 import (
-	"github.com/ledgerwatch/erigon-lib/common"
+	"github.com/nebojsa94/erigon-lib/common"
 	"github.com/nebojsa94/erigon/cl/abstract"
 	"github.com/nebojsa94/erigon/cl/cltypes"
 	"github.com/nebojsa94/erigon/cl/phase1/core/state"

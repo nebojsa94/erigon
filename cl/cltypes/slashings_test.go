@@ -3,7 +3,7 @@ package cltypes
 import (
 	"testing"
 
-	"github.com/ledgerwatch/erigon-lib/common"
+	"github.com/nebojsa94/erigon-lib/common"
 	"github.com/nebojsa94/erigon/cl/cltypes/solid"
 	"github.com/stretchr/testify/assert"
 )

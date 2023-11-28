@@ -3,7 +3,7 @@ package cltypes
 import (
 	"testing"
 
-	libcommon "github.com/ledgerwatch/erigon-lib/common"
+	libcommon "github.com/nebojsa94/erigon-lib/common"
 	"github.com/nebojsa94/erigon/cl/clparams"
 	"github.com/nebojsa94/erigon/cl/cltypes/solid"
 	"github.com/nebojsa94/erigon/core/types"

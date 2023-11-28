@@ -17,8 +17,8 @@
 package chain
 
 import (
-	"github.com/ledgerwatch/erigon-lib/common"
-	"github.com/ledgerwatch/erigon-lib/common/hexutility"
+	"github.com/nebojsa94/erigon-lib/common"
+	"github.com/nebojsa94/erigon-lib/common/hexutility"
 )
 
 // Different ways of specifying validators.

@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/ledgerwatch/erigon-lib/gointerfaces"
-	"github.com/ledgerwatch/erigon-lib/gointerfaces/txpool"
+	"github.com/nebojsa94/erigon-lib/gointerfaces"
+	"github.com/nebojsa94/erigon-lib/gointerfaces/txpool"
 	"github.com/nebojsa94/erigon/ethdb/privateapi"
 	"github.com/ledgerwatch/log/v3"
 	"google.golang.org/grpc"

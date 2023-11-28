@@ -29,7 +29,7 @@ import (
 	"sync"
 	"time"
 
-	common2 "github.com/ledgerwatch/erigon-lib/common/cmp"
+	common2 "github.com/nebojsa94/erigon-lib/common/cmp"
 	"github.com/nebojsa94/erigon/common/debug"
 	"github.com/nebojsa94/erigon/common/mclock"
 	"github.com/nebojsa94/erigon/p2p/discover/v5wire"

@@ -19,7 +19,7 @@ package mdbx
 import (
 	"context"
 
-	"github.com/ledgerwatch/erigon-lib/kv"
+	"github.com/nebojsa94/erigon-lib/kv"
 	"github.com/ledgerwatch/log/v3"
 )
 

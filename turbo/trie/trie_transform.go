@@ -1,7 +1,7 @@
 package trie
 
 import (
-	"github.com/ledgerwatch/erigon-lib/common"
+	"github.com/nebojsa94/erigon-lib/common"
 	"github.com/nebojsa94/erigon/core/types/accounts"
 )
 

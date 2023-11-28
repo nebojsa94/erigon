@@ -4,8 +4,8 @@ import (
 	"math/big"
 	"strings"
 
-	"github.com/ledgerwatch/erigon-lib/chain"
-	libcommon "github.com/ledgerwatch/erigon-lib/common"
+	"github.com/nebojsa94/erigon-lib/chain"
+	libcommon "github.com/nebojsa94/erigon-lib/common"
 	"github.com/nebojsa94/erigon/accounts/abi"
 	"github.com/nebojsa94/erigon/consensus"
 	"github.com/nebojsa94/erigon/rlp"

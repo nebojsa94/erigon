@@ -3,7 +3,7 @@ package mmap
 import (
 	"runtime/debug"
 
-	"github.com/ledgerwatch/erigon-lib/common/cmp"
+	"github.com/nebojsa94/erigon-lib/common/cmp"
 	"github.com/pbnjay/memory"
 )
 

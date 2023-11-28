@@ -3,7 +3,7 @@ package statefull
 import (
 	"github.com/holiman/uint256"
 	ethereum "github.com/nebojsa94/erigon"
-	libcommon "github.com/ledgerwatch/erigon-lib/common"
+	libcommon "github.com/nebojsa94/erigon-lib/common"
 	"github.com/nebojsa94/erigon/consensus"
 	"github.com/nebojsa94/erigon/core"
 	"github.com/nebojsa94/erigon/core/types"

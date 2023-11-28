@@ -20,7 +20,7 @@ import (
 	"testing"
 
 	"github.com/RoaringBitmap/roaring"
-	"github.com/ledgerwatch/erigon-lib/kv/bitmapdb"
+	"github.com/nebojsa94/erigon-lib/kv/bitmapdb"
 	"github.com/stretchr/testify/require"
 )
 
