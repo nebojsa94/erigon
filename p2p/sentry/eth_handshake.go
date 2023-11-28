@@ -3,8 +3,8 @@ package sentry
 import (
 	"fmt"
 
-	"github.com/nebojsa94/erigon-lib/gointerfaces"
-	proto_sentry "github.com/nebojsa94/erigon-lib/gointerfaces/sentry"
+	"github.com/ledgerwatch/erigon-lib/gointerfaces"
+	proto_sentry "github.com/ledgerwatch/erigon-lib/gointerfaces/sentry"
 	"github.com/nebojsa94/erigon/core/forkid"
 	"github.com/nebojsa94/erigon/eth/protocols/eth"
 	"github.com/nebojsa94/erigon/p2p"

@@ -10,7 +10,7 @@ import (
 	"sort"
 	"strings"
 
-	libcommon "github.com/nebojsa94/erigon-lib/common"
+	libcommon "github.com/ledgerwatch/erigon-lib/common"
 	"github.com/ledgerwatch/log/v3"
 
 	"github.com/nebojsa94/erigon/consensus/bor/valset"

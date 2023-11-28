@@ -6,9 +6,9 @@ import (
 
 	_ "embed"
 
-	libcommon "github.com/nebojsa94/erigon-lib/common"
-	"github.com/nebojsa94/erigon-lib/kv"
-	"github.com/nebojsa94/erigon-lib/kv/memdb"
+	libcommon "github.com/ledgerwatch/erigon-lib/common"
+	"github.com/ledgerwatch/erigon-lib/kv"
+	"github.com/ledgerwatch/erigon-lib/kv/memdb"
 	"github.com/nebojsa94/erigon/cl/clparams"
 	"github.com/nebojsa94/erigon/cl/cltypes"
 	"github.com/nebojsa94/erigon/cl/cltypes/solid"

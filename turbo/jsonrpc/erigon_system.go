@@ -3,9 +3,9 @@ package jsonrpc
 import (
 	"context"
 	"errors"
-	"github.com/nebojsa94/erigon-lib/common/hexutil"
+	"github.com/ledgerwatch/erigon-lib/common/hexutil"
 
-	"github.com/nebojsa94/erigon-lib/common"
+	"github.com/ledgerwatch/erigon-lib/common"
 
 	borfinality "github.com/nebojsa94/erigon/consensus/bor/finality"
 	"github.com/nebojsa94/erigon/consensus/bor/finality/whitelist"

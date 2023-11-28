@@ -18,7 +18,7 @@ package runtime_test
 
 import (
 	"fmt"
-	"github.com/nebojsa94/erigon-lib/common"
+	"github.com/ledgerwatch/erigon-lib/common"
 
 	"github.com/nebojsa94/erigon/core/vm/runtime"
 )

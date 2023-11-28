@@ -22,7 +22,7 @@ import (
 	"math/big"
 
 	"github.com/holiman/uint256"
-	"github.com/nebojsa94/erigon-lib/chain"
+	"github.com/ledgerwatch/erigon-lib/chain"
 
 	"github.com/nebojsa94/erigon/core/state"
 	"github.com/nebojsa94/erigon/core/types"

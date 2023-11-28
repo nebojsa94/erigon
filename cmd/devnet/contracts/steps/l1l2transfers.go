@@ -8,8 +8,8 @@ import (
 	"math"
 	"math/big"
 
-	"github.com/nebojsa94/erigon-lib/chain/networkname"
-	libcommon "github.com/nebojsa94/erigon-lib/common"
+	"github.com/ledgerwatch/erigon-lib/chain/networkname"
+	libcommon "github.com/ledgerwatch/erigon-lib/common"
 	"github.com/nebojsa94/erigon/accounts/abi"
 	"github.com/nebojsa94/erigon/accounts/abi/bind"
 	"github.com/nebojsa94/erigon/cmd/devnet/accounts"

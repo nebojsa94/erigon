@@ -1,7 +1,7 @@
 package bor
 
 import (
-	"github.com/nebojsa94/erigon-lib/chain"
+	"github.com/ledgerwatch/erigon-lib/chain"
 	"github.com/nebojsa94/erigon/consensus"
 	"github.com/nebojsa94/erigon/consensus/ethash"
 	"github.com/nebojsa94/erigon/core/state"

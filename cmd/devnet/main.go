@@ -13,8 +13,8 @@ import (
 	"github.com/nebojsa94/erigon/cmd/devnet/services"
 	"github.com/nebojsa94/erigon/cmd/devnet/services/polygon"
 
-	"github.com/nebojsa94/erigon-lib/chain/networkname"
-	"github.com/nebojsa94/erigon-lib/common/metrics"
+	"github.com/ledgerwatch/erigon-lib/chain/networkname"
+	"github.com/ledgerwatch/erigon-lib/common/metrics"
 	"github.com/nebojsa94/erigon/cmd/devnet/accounts"
 	_ "github.com/nebojsa94/erigon/cmd/devnet/accounts/steps"
 	_ "github.com/nebojsa94/erigon/cmd/devnet/admin"

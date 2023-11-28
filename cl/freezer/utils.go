@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"github.com/nebojsa94/erigon/cl/sentinel/communication/ssz_snappy"
 
-	"github.com/nebojsa94/erigon-lib/types/ssz"
+	"github.com/ledgerwatch/erigon-lib/types/ssz"
 )
 
 type marshalerHashable interface {

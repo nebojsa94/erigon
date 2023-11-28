@@ -21,7 +21,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/nebojsa94/erigon-lib/gointerfaces/types"
+	"github.com/ledgerwatch/erigon-lib/gointerfaces/types"
 )
 
 // DBSchemaVersion versions list

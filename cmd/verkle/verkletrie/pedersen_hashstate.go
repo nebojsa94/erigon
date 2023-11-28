@@ -8,8 +8,8 @@ import (
 	"time"
 
 	"github.com/holiman/uint256"
-	libcommon "github.com/nebojsa94/erigon-lib/common"
-	"github.com/nebojsa94/erigon-lib/kv"
+	libcommon "github.com/ledgerwatch/erigon-lib/common"
+	"github.com/ledgerwatch/erigon-lib/kv"
 	"github.com/ledgerwatch/log/v3"
 
 	"github.com/nebojsa94/erigon/common"

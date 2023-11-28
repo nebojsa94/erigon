@@ -17,8 +17,8 @@ import (
 	"time"
 
 	"github.com/gorilla/websocket"
-	"github.com/nebojsa94/erigon-lib/gointerfaces/remote"
-	"github.com/nebojsa94/erigon-lib/gointerfaces/types"
+	"github.com/ledgerwatch/erigon-lib/gointerfaces/remote"
+	"github.com/ledgerwatch/erigon-lib/gointerfaces/types"
 	"github.com/nebojsa94/erigon/rpc"
 	"github.com/ledgerwatch/log/v3"
 	"github.com/urfave/cli/v2"

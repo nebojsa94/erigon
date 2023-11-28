@@ -1,7 +1,7 @@
 package utils_test
 
 import (
-	"github.com/nebojsa94/erigon-lib/common"
+	"github.com/ledgerwatch/erigon-lib/common"
 	"testing"
 
 	"github.com/nebojsa94/erigon/cl/cltypes"

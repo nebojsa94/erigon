@@ -2,10 +2,10 @@ package jsonrpc
 
 import (
 	"fmt"
-	"github.com/nebojsa94/erigon-lib/common/hexutil"
+	"github.com/ledgerwatch/erigon-lib/common/hexutil"
 
-	"github.com/nebojsa94/erigon-lib/common"
-	"github.com/nebojsa94/erigon-lib/common/hexutility"
+	"github.com/ledgerwatch/erigon-lib/common"
+	"github.com/ledgerwatch/erigon-lib/common/hexutility"
 
 	"github.com/nebojsa94/erigon/core/types"
 )

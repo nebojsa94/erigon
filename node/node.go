@@ -27,7 +27,7 @@ import (
 	"time"
 
 	"github.com/c2h5oh/datasize"
-	"github.com/nebojsa94/erigon-lib/common/datadir"
+	"github.com/ledgerwatch/erigon-lib/common/datadir"
 	"golang.org/x/sync/semaphore"
 
 	"github.com/nebojsa94/erigon/cmd/utils"
@@ -38,9 +38,9 @@ import (
 	"github.com/gofrs/flock"
 	"github.com/ledgerwatch/log/v3"
 
-	"github.com/nebojsa94/erigon-lib/kv"
-	"github.com/nebojsa94/erigon-lib/kv/mdbx"
-	"github.com/nebojsa94/erigon-lib/kv/memdb"
+	"github.com/ledgerwatch/erigon-lib/kv"
+	"github.com/ledgerwatch/erigon-lib/kv/mdbx"
+	"github.com/ledgerwatch/erigon-lib/kv/memdb"
 	"github.com/nebojsa94/erigon/migrations"
 )
 

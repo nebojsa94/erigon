@@ -27,12 +27,12 @@ import (
 	"time"
 
 	"github.com/c2h5oh/datasize"
-	"github.com/nebojsa94/erigon-lib/chain"
-	"github.com/nebojsa94/erigon-lib/chain/networkname"
-	"github.com/nebojsa94/erigon-lib/common"
-	"github.com/nebojsa94/erigon-lib/common/datadir"
-	"github.com/nebojsa94/erigon-lib/downloader/downloadercfg"
-	"github.com/nebojsa94/erigon-lib/txpool/txpoolcfg"
+	"github.com/ledgerwatch/erigon-lib/chain"
+	"github.com/ledgerwatch/erigon-lib/chain/networkname"
+	"github.com/ledgerwatch/erigon-lib/common"
+	"github.com/ledgerwatch/erigon-lib/common/datadir"
+	"github.com/ledgerwatch/erigon-lib/downloader/downloadercfg"
+	"github.com/ledgerwatch/erigon-lib/txpool/txpoolcfg"
 
 	"github.com/nebojsa94/erigon/cl/beacon/beacon_router_configuration"
 	"github.com/nebojsa94/erigon/cl/clparams"

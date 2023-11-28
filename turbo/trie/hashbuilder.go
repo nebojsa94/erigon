@@ -7,8 +7,8 @@ import (
 	"math/bits"
 
 	"github.com/holiman/uint256"
-	libcommon "github.com/nebojsa94/erigon-lib/common"
-	length2 "github.com/nebojsa94/erigon-lib/common/length"
+	libcommon "github.com/ledgerwatch/erigon-lib/common"
+	length2 "github.com/ledgerwatch/erigon-lib/common/length"
 	"golang.org/x/crypto/sha3"
 
 	"github.com/nebojsa94/erigon/core/types/accounts"

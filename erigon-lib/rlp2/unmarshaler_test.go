@@ -3,7 +3,7 @@ package rlp_test
 import (
 	"testing"
 
-	rlp "github.com/nebojsa94/erigon-lib/rlp2"
+	rlp "github.com/ledgerwatch/erigon-lib/rlp2"
 	"github.com/stretchr/testify/require"
 )
 

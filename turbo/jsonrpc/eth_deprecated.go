@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/nebojsa94/erigon-lib/common"
-	"github.com/nebojsa94/erigon-lib/common/hexutility"
+	"github.com/ledgerwatch/erigon-lib/common"
+	"github.com/ledgerwatch/erigon-lib/common/hexutility"
 )
 
 // Accounts implements eth_accounts. Returns a list of addresses owned by the client.

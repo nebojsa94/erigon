@@ -7,9 +7,9 @@ import (
 	"reflect"
 	"unsafe"
 
-	"github.com/nebojsa94/erigon-lib/common"
-	"github.com/nebojsa94/erigon-lib/common/length"
-	"github.com/nebojsa94/erigon-lib/types/ssz"
+	"github.com/ledgerwatch/erigon-lib/common"
+	"github.com/ledgerwatch/erigon-lib/common/length"
+	"github.com/ledgerwatch/erigon-lib/types/ssz"
 	"github.com/prysmaticlabs/gohashtree"
 )
 

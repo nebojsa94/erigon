@@ -3,11 +3,11 @@ package jsonrpc
 import (
 	"context"
 	"encoding/json"
-	"github.com/nebojsa94/erigon-lib/common/hexutil"
+	"github.com/ledgerwatch/erigon-lib/common/hexutil"
 	"testing"
 
-	libcommon "github.com/nebojsa94/erigon-lib/common"
-	"github.com/nebojsa94/erigon-lib/kv"
+	libcommon "github.com/ledgerwatch/erigon-lib/common"
+	"github.com/ledgerwatch/erigon-lib/kv"
 	"github.com/stretchr/testify/require"
 
 	"github.com/nebojsa94/erigon/cmd/rpcdaemon/cli/httpcfg"

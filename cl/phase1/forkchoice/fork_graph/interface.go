@@ -1,7 +1,7 @@
 package fork_graph
 
 import (
-	libcommon "github.com/nebojsa94/erigon-lib/common"
+	libcommon "github.com/ledgerwatch/erigon-lib/common"
 	"github.com/nebojsa94/erigon/cl/cltypes"
 	"github.com/nebojsa94/erigon/cl/cltypes/solid"
 	"github.com/nebojsa94/erigon/cl/phase1/core/state"

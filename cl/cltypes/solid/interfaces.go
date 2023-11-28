@@ -3,8 +3,8 @@ package solid
 import (
 	"encoding/json"
 
-	"github.com/nebojsa94/erigon-lib/common"
-	"github.com/nebojsa94/erigon-lib/types/ssz"
+	"github.com/ledgerwatch/erigon-lib/common"
+	"github.com/ledgerwatch/erigon-lib/types/ssz"
 	ssz2 "github.com/nebojsa94/erigon/cl/ssz"
 )
 

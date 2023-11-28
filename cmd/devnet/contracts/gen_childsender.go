@@ -10,7 +10,7 @@ import (
 	"strings"
 
 	ethereum "github.com/nebojsa94/erigon"
-	libcommon "github.com/nebojsa94/erigon-lib/common"
+	libcommon "github.com/ledgerwatch/erigon-lib/common"
 	"github.com/nebojsa94/erigon/accounts/abi"
 	"github.com/nebojsa94/erigon/accounts/abi/bind"
 	"github.com/nebojsa94/erigon/core/types"

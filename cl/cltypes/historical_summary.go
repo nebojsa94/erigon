@@ -1,9 +1,9 @@
 package cltypes
 
 import (
-	libcommon "github.com/nebojsa94/erigon-lib/common"
+	libcommon "github.com/ledgerwatch/erigon-lib/common"
 
-	"github.com/nebojsa94/erigon-lib/common/length"
+	"github.com/ledgerwatch/erigon-lib/common/length"
 	"github.com/nebojsa94/erigon/cl/merkle_tree"
 	ssz2 "github.com/nebojsa94/erigon/cl/ssz"
 )

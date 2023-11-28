@@ -18,9 +18,9 @@ package ethash
 
 import (
 	"errors"
-	"github.com/nebojsa94/erigon-lib/common/hexutil"
+	"github.com/ledgerwatch/erigon-lib/common/hexutil"
 
-	libcommon "github.com/nebojsa94/erigon-lib/common"
+	libcommon "github.com/ledgerwatch/erigon-lib/common"
 
 	"github.com/nebojsa94/erigon/core/types"
 )

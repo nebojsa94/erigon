@@ -11,10 +11,10 @@ import (
 	"github.com/nebojsa94/erigon/cl/utils"
 
 	"github.com/c2h5oh/datasize"
-	libcommon "github.com/nebojsa94/erigon-lib/common"
-	"github.com/nebojsa94/erigon-lib/etl"
-	"github.com/nebojsa94/erigon-lib/kv"
-	"github.com/nebojsa94/erigon-lib/kv/mdbx"
+	libcommon "github.com/ledgerwatch/erigon-lib/common"
+	"github.com/ledgerwatch/erigon-lib/etl"
+	"github.com/ledgerwatch/erigon-lib/kv"
+	"github.com/ledgerwatch/erigon-lib/kv/mdbx"
 	"github.com/ledgerwatch/log/v3"
 	"go.uber.org/zap/buffer"
 

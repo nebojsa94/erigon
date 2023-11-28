@@ -96,7 +96,7 @@ import (
 	ethereum "github.com/nebojsa94/erigon"
 	"github.com/nebojsa94/erigon/accounts/abi"
 	"github.com/nebojsa94/erigon/accounts/abi/bind"
-	libcommon "github.com/nebojsa94/erigon-lib/common"
+	libcommon "github.com/ledgerwatch/erigon-lib/common"
 	"github.com/nebojsa94/erigon/core/types"
 	"github.com/nebojsa94/erigon/event"
 )

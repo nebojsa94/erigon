@@ -13,9 +13,9 @@ import (
 	"github.com/nebojsa94/erigon/cl/merkle_tree"
 	"golang.org/x/sync/errgroup"
 
-	"github.com/nebojsa94/erigon-lib/chain/networkname"
-	libcommon "github.com/nebojsa94/erigon-lib/common"
-	"github.com/nebojsa94/erigon-lib/common/hexutility"
+	"github.com/ledgerwatch/erigon-lib/chain/networkname"
+	libcommon "github.com/ledgerwatch/erigon-lib/common"
+	"github.com/ledgerwatch/erigon-lib/common/hexutility"
 	"github.com/nebojsa94/erigon/accounts/abi/bind"
 	"github.com/nebojsa94/erigon/cmd/devnet/devnet"
 	"github.com/nebojsa94/erigon/cmd/devnet/requests"

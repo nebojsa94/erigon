@@ -3,8 +3,8 @@ package jsonrpc
 import (
 	"fmt"
 
-	"github.com/nebojsa94/erigon-lib/common"
-	"github.com/nebojsa94/erigon-lib/kv"
+	"github.com/ledgerwatch/erigon-lib/common"
+	"github.com/ledgerwatch/erigon-lib/kv"
 
 	"github.com/nebojsa94/erigon/consensus"
 	"github.com/nebojsa94/erigon/consensus/bor"

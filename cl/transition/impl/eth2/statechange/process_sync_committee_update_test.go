@@ -2,7 +2,7 @@ package statechange_test
 
 import (
 	"encoding/binary"
-	"github.com/nebojsa94/erigon-lib/common"
+	"github.com/ledgerwatch/erigon-lib/common"
 	"github.com/nebojsa94/erigon/cl/transition/impl/eth2/statechange"
 	"testing"
 

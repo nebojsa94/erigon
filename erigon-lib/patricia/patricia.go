@@ -21,8 +21,8 @@ import (
 	"math/bits"
 	"strings"
 
-	"github.com/nebojsa94/erigon-lib/common/cmp"
-	"github.com/nebojsa94/erigon-lib/sais"
+	"github.com/ledgerwatch/erigon-lib/common/cmp"
+	"github.com/ledgerwatch/erigon-lib/sais"
 	"golang.org/x/exp/slices"
 )
 

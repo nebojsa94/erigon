@@ -23,10 +23,10 @@ import (
 	"github.com/holiman/uint256"
 	"github.com/stretchr/testify/require"
 
-	libcommon "github.com/nebojsa94/erigon-lib/common"
-	"github.com/nebojsa94/erigon-lib/direct"
-	"github.com/nebojsa94/erigon-lib/gointerfaces/sentry"
-	"github.com/nebojsa94/erigon-lib/kv"
+	libcommon "github.com/ledgerwatch/erigon-lib/common"
+	"github.com/ledgerwatch/erigon-lib/direct"
+	"github.com/ledgerwatch/erigon-lib/gointerfaces/sentry"
+	"github.com/ledgerwatch/erigon-lib/kv"
 
 	"github.com/nebojsa94/erigon/core"
 	"github.com/nebojsa94/erigon/core/rawdb"

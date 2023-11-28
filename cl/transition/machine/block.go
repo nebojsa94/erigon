@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/nebojsa94/erigon-lib/metrics"
+	"github.com/ledgerwatch/erigon-lib/metrics"
 	"github.com/nebojsa94/erigon/cl/abstract"
 
 	"github.com/nebojsa94/erigon/cl/clparams"

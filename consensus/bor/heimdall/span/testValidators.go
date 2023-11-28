@@ -1,8 +1,8 @@
 package span
 
 import (
-	"github.com/nebojsa94/erigon-lib/chain/networkname"
-	"github.com/nebojsa94/erigon-lib/common"
+	"github.com/ledgerwatch/erigon-lib/chain/networkname"
+	"github.com/ledgerwatch/erigon-lib/common"
 	"github.com/nebojsa94/erigon/consensus/bor/valset"
 )
 

@@ -6,8 +6,8 @@ import (
 	"time"
 
 	"github.com/c2h5oh/datasize"
-	"github.com/nebojsa94/erigon-lib/chain"
-	libcommon "github.com/nebojsa94/erigon-lib/common"
+	"github.com/ledgerwatch/erigon-lib/chain"
+	libcommon "github.com/ledgerwatch/erigon-lib/common"
 	"github.com/nebojsa94/erigon/consensus/ethash/ethashcfg"
 	"github.com/nebojsa94/erigon/core/types"
 	"github.com/nebojsa94/erigon/eth/gasprice/gaspricecfg"

@@ -21,8 +21,8 @@ import (
 	"math"
 	"testing"
 
-	"github.com/nebojsa94/erigon-lib/chain"
-	libcommon "github.com/nebojsa94/erigon-lib/common"
+	"github.com/ledgerwatch/erigon-lib/chain"
+	libcommon "github.com/ledgerwatch/erigon-lib/common"
 
 	"github.com/nebojsa94/erigon/params"
 	"github.com/nebojsa94/erigon/rlp"

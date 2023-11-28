@@ -28,8 +28,8 @@ import (
 
 	"github.com/ledgerwatch/log/v3"
 
-	"github.com/nebojsa94/erigon-lib/diagnostics"
-	"github.com/nebojsa94/erigon-lib/metrics"
+	"github.com/ledgerwatch/erigon-lib/diagnostics"
+	"github.com/ledgerwatch/erigon-lib/metrics"
 	"github.com/nebojsa94/erigon/common/debug"
 	"github.com/nebojsa94/erigon/common/mclock"
 	"github.com/nebojsa94/erigon/event"
