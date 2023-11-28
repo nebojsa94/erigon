@@ -19,7 +19,7 @@ package math
 import (
 	"bytes"
 	"encoding/hex"
-	"github.com/nebojsa94/erigon-lib/common"
+	"github.com/nebojsa94/erigon/erigon-lib/common"
 	"math/big"
 	"testing"
 )

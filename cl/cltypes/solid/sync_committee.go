@@ -3,9 +3,9 @@ package solid
 import (
 	"encoding/json"
 
-	libcommon "github.com/nebojsa94/erigon-lib/common"
-	"github.com/nebojsa94/erigon-lib/types/clonable"
-	"github.com/nebojsa94/erigon-lib/types/ssz"
+	libcommon "github.com/nebojsa94/erigon/erigon-lib/common"
+	"github.com/nebojsa94/erigon/erigon-lib/types/clonable"
+	"github.com/nebojsa94/erigon/erigon-lib/types/ssz"
 	"github.com/nebojsa94/erigon/cl/merkle_tree"
 )
 

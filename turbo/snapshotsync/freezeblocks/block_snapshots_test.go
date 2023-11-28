@@ -6,11 +6,11 @@ import (
 	"testing"
 	"testing/fstest"
 
-	"github.com/nebojsa94/erigon-lib/chain/networkname"
-	"github.com/nebojsa94/erigon-lib/chain/snapcfg"
-	"github.com/nebojsa94/erigon-lib/compress"
-	"github.com/nebojsa94/erigon-lib/downloader/snaptype"
-	"github.com/nebojsa94/erigon-lib/recsplit"
+	"github.com/nebojsa94/erigon/erigon-lib/chain/networkname"
+	"github.com/nebojsa94/erigon/erigon-lib/chain/snapcfg"
+	"github.com/nebojsa94/erigon/erigon-lib/compress"
+	"github.com/nebojsa94/erigon/erigon-lib/downloader/snaptype"
+	"github.com/nebojsa94/erigon/erigon-lib/recsplit"
 	"github.com/ledgerwatch/log/v3"
 	"github.com/stretchr/testify/require"
 

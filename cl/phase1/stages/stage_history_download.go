@@ -6,12 +6,12 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/nebojsa94/erigon-lib/kv/dbutils"
+	"github.com/nebojsa94/erigon/erigon-lib/kv/dbutils"
 
-	libcommon "github.com/nebojsa94/erigon-lib/common"
-	"github.com/nebojsa94/erigon-lib/etl"
-	"github.com/nebojsa94/erigon-lib/kv"
-	"github.com/nebojsa94/erigon-lib/kv/memdb"
+	libcommon "github.com/nebojsa94/erigon/erigon-lib/common"
+	"github.com/nebojsa94/erigon/erigon-lib/etl"
+	"github.com/nebojsa94/erigon/erigon-lib/kv"
+	"github.com/nebojsa94/erigon/erigon-lib/kv/memdb"
 	"github.com/nebojsa94/erigon/cl/antiquary"
 	"github.com/nebojsa94/erigon/cl/persistence"
 	"github.com/nebojsa94/erigon/cl/phase1/execution_client"

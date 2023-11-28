@@ -25,7 +25,7 @@ import (
 	"sync/atomic"
 
 	"github.com/holiman/uint256"
-	libcommon "github.com/nebojsa94/erigon-lib/common"
+	libcommon "github.com/nebojsa94/erigon/erigon-lib/common"
 	"github.com/nebojsa94/erigon/consensus/misc"
 	"github.com/nebojsa94/erigon/core/types"
 	"github.com/nebojsa94/erigon/rpc"

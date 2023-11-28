@@ -12,12 +12,12 @@ import (
 	"sync/atomic"
 	"time"
 
-	libcommon "github.com/nebojsa94/erigon-lib/common"
-	"github.com/nebojsa94/erigon-lib/gointerfaces"
-	"github.com/nebojsa94/erigon-lib/gointerfaces/grpcutil"
-	"github.com/nebojsa94/erigon-lib/gointerfaces/remote"
-	"github.com/nebojsa94/erigon-lib/gointerfaces/txpool"
-	txpool2 "github.com/nebojsa94/erigon-lib/txpool"
+	libcommon "github.com/nebojsa94/erigon/erigon-lib/common"
+	"github.com/nebojsa94/erigon/erigon-lib/gointerfaces"
+	"github.com/nebojsa94/erigon/erigon-lib/gointerfaces/grpcutil"
+	"github.com/nebojsa94/erigon/erigon-lib/gointerfaces/remote"
+	"github.com/nebojsa94/erigon/erigon-lib/gointerfaces/txpool"
+	txpool2 "github.com/nebojsa94/erigon/erigon-lib/txpool"
 	"github.com/ledgerwatch/log/v3"
 	"google.golang.org/grpc"
 

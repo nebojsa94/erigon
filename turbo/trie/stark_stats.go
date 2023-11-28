@@ -7,8 +7,8 @@ import (
 	"sort"
 
 	"github.com/holiman/uint256"
-	libcommon "github.com/nebojsa94/erigon-lib/common"
-	len2 "github.com/nebojsa94/erigon-lib/common/length"
+	libcommon "github.com/nebojsa94/erigon/erigon-lib/common"
+	len2 "github.com/nebojsa94/erigon/erigon-lib/common/length"
 
 	"github.com/nebojsa94/erigon/core/types/accounts"
 	"github.com/nebojsa94/erigon/turbo/rlphacks"

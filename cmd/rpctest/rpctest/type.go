@@ -3,10 +3,10 @@ package rpctest
 import (
 	"fmt"
 
-	"github.com/nebojsa94/erigon-lib/common/hexutil"
+	"github.com/nebojsa94/erigon/erigon-lib/common/hexutil"
 
-	libcommon "github.com/nebojsa94/erigon-lib/common"
-	"github.com/nebojsa94/erigon-lib/common/hexutility"
+	libcommon "github.com/nebojsa94/erigon/erigon-lib/common"
+	"github.com/nebojsa94/erigon/erigon-lib/common/hexutility"
 
 	"github.com/nebojsa94/erigon/core/state"
 )

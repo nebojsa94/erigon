@@ -6,9 +6,9 @@ import (
 	"testing"
 
 	"github.com/holiman/uint256"
-	libcommon "github.com/nebojsa94/erigon-lib/common"
-	"github.com/nebojsa94/erigon-lib/kv"
-	state2 "github.com/nebojsa94/erigon-lib/state"
+	libcommon "github.com/nebojsa94/erigon/erigon-lib/common"
+	"github.com/nebojsa94/erigon/erigon-lib/kv"
+	state2 "github.com/nebojsa94/erigon/erigon-lib/state"
 	"github.com/nebojsa94/erigon/core/state"
 	"github.com/nebojsa94/erigon/core/types/accounts"
 	"github.com/nebojsa94/erigon/eth/ethconfig"

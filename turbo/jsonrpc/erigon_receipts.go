@@ -7,10 +7,10 @@ import (
 	"fmt"
 
 	"github.com/RoaringBitmap/roaring"
-	"github.com/nebojsa94/erigon-lib/common"
-	"github.com/nebojsa94/erigon-lib/common/hexutility"
-	"github.com/nebojsa94/erigon-lib/kv"
-	"github.com/nebojsa94/erigon-lib/kv/bitmapdb"
+	"github.com/nebojsa94/erigon/erigon-lib/common"
+	"github.com/nebojsa94/erigon/erigon-lib/common/hexutility"
+	"github.com/nebojsa94/erigon/erigon-lib/kv"
+	"github.com/nebojsa94/erigon/erigon-lib/kv/bitmapdb"
 
 	"github.com/nebojsa94/erigon/core/rawdb"
 	"github.com/nebojsa94/erigon/core/types"

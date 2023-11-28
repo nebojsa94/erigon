@@ -7,8 +7,8 @@ import (
 	"sync"
 
 	"github.com/holiman/uint256"
-	libcommon "github.com/nebojsa94/erigon-lib/common"
-	rlp2 "github.com/nebojsa94/erigon-lib/rlp"
+	libcommon "github.com/nebojsa94/erigon/erigon-lib/common"
+	rlp2 "github.com/nebojsa94/erigon/erigon-lib/rlp"
 
 	"github.com/nebojsa94/erigon/crypto"
 	"github.com/nebojsa94/erigon/rlp"

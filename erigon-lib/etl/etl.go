@@ -23,8 +23,8 @@ import (
 	"time"
 
 	"github.com/c2h5oh/datasize"
-	"github.com/nebojsa94/erigon-lib/common"
-	"github.com/nebojsa94/erigon-lib/kv"
+	"github.com/nebojsa94/erigon/erigon-lib/common"
+	"github.com/nebojsa94/erigon/erigon-lib/kv"
 	"github.com/ledgerwatch/log/v3"
 )
 

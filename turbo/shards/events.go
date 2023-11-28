@@ -3,8 +3,8 @@ package shards
 import (
 	"sync"
 
-	"github.com/nebojsa94/erigon-lib/common"
-	"github.com/nebojsa94/erigon-lib/gointerfaces/remote"
+	"github.com/nebojsa94/erigon/erigon-lib/common"
+	"github.com/nebojsa94/erigon/erigon-lib/gointerfaces/remote"
 	"github.com/nebojsa94/erigon/core/types"
 )
 

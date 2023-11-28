@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"testing"
 
-	libcommon "github.com/nebojsa94/erigon-lib/common"
-	"github.com/nebojsa94/erigon-lib/direct"
-	"github.com/nebojsa94/erigon-lib/gointerfaces/sentry"
+	libcommon "github.com/nebojsa94/erigon/erigon-lib/common"
+	"github.com/nebojsa94/erigon/erigon-lib/direct"
+	"github.com/nebojsa94/erigon/erigon-lib/gointerfaces/sentry"
 	"github.com/stretchr/testify/require"
 
 	"github.com/nebojsa94/erigon/cmd/rpcdaemon/rpcservices"

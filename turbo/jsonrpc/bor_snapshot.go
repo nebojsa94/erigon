@@ -6,9 +6,9 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/nebojsa94/erigon-lib/chain"
-	"github.com/nebojsa94/erigon-lib/common"
-	"github.com/nebojsa94/erigon-lib/kv"
+	"github.com/nebojsa94/erigon/erigon-lib/chain"
+	"github.com/nebojsa94/erigon/erigon-lib/common"
+	"github.com/nebojsa94/erigon/erigon-lib/kv"
 	"github.com/ledgerwatch/log/v3"
 
 	"github.com/nebojsa94/erigon/consensus"

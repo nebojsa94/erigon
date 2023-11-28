@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/nebojsa94/erigon-lib/chain/networkname"
-	libcommon "github.com/nebojsa94/erigon-lib/common"
-	"github.com/nebojsa94/erigon-lib/common/hexutility"
+	"github.com/nebojsa94/erigon/erigon-lib/chain/networkname"
+	libcommon "github.com/nebojsa94/erigon/erigon-lib/common"
+	"github.com/nebojsa94/erigon/erigon-lib/common/hexutility"
 
 	"github.com/nebojsa94/erigon/core/systemcontracts"
 	"github.com/nebojsa94/erigon/core/types"

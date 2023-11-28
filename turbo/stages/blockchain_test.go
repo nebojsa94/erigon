@@ -25,20 +25,20 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/nebojsa94/erigon-lib/common/hexutil"
+	"github.com/nebojsa94/erigon/erigon-lib/common/hexutil"
 
 	"github.com/holiman/uint256"
 	"github.com/ledgerwatch/log/v3"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/nebojsa94/erigon-lib/chain"
-	chain2 "github.com/nebojsa94/erigon-lib/chain"
-	libcommon "github.com/nebojsa94/erigon-lib/common"
-	"github.com/nebojsa94/erigon-lib/common/length"
-	"github.com/nebojsa94/erigon-lib/kv"
-	"github.com/nebojsa94/erigon-lib/kv/bitmapdb"
-	types2 "github.com/nebojsa94/erigon-lib/types"
+	"github.com/nebojsa94/erigon/erigon-lib/chain"
+	chain2 "github.com/nebojsa94/erigon/erigon-lib/chain"
+	libcommon "github.com/nebojsa94/erigon/erigon-lib/common"
+	"github.com/nebojsa94/erigon/erigon-lib/common/length"
+	"github.com/nebojsa94/erigon/erigon-lib/kv"
+	"github.com/nebojsa94/erigon/erigon-lib/kv/bitmapdb"
+	types2 "github.com/nebojsa94/erigon/erigon-lib/types"
 
 	"github.com/nebojsa94/erigon/common/u256"
 	"github.com/nebojsa94/erigon/consensus/ethash"

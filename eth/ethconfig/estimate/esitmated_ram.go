@@ -4,8 +4,8 @@ import (
 	"runtime"
 
 	"github.com/c2h5oh/datasize"
-	"github.com/nebojsa94/erigon-lib/common/cmp"
-	"github.com/nebojsa94/erigon-lib/mmap"
+	"github.com/nebojsa94/erigon/erigon-lib/common/cmp"
+	"github.com/nebojsa94/erigon/erigon-lib/mmap"
 )
 
 type estimatedRamPerWorker datasize.ByteSize

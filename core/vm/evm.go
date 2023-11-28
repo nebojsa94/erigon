@@ -21,8 +21,8 @@ import (
 
 	"github.com/holiman/uint256"
 
-	"github.com/nebojsa94/erigon-lib/chain"
-	libcommon "github.com/nebojsa94/erigon-lib/common"
+	"github.com/nebojsa94/erigon/erigon-lib/chain"
+	libcommon "github.com/nebojsa94/erigon/erigon-lib/common"
 
 	"github.com/nebojsa94/erigon/common/u256"
 	"github.com/nebojsa94/erigon/core/vm/evmtypes"

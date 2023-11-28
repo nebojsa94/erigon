@@ -31,7 +31,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/nebojsa94/erigon-lib/common/hexutil"
+	"github.com/nebojsa94/erigon/erigon-lib/common/hexutil"
 
 	"github.com/davecgh/go-spew/spew"
 	"github.com/nebojsa94/erigon/common/mclock"

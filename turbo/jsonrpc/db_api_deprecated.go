@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/nebojsa94/erigon-lib/common/hexutility"
+	"github.com/nebojsa94/erigon/erigon-lib/common/hexutility"
 )
 
 // DBAPI the interface for the db_ RPC commands (deprecated)

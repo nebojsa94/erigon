@@ -21,7 +21,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/nebojsa94/erigon-lib/common"
+	"github.com/nebojsa94/erigon/erigon-lib/common"
 )
 
 func TestBorKeyValueConfigHelper(t *testing.T) {

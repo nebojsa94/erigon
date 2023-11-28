@@ -6,8 +6,8 @@ import (
 
 	"github.com/nebojsa94/erigon/cl/sentinel"
 
-	"github.com/nebojsa94/erigon-lib/direct"
-	sentinelrpc "github.com/nebojsa94/erigon-lib/gointerfaces/sentinel"
+	"github.com/nebojsa94/erigon/erigon-lib/direct"
+	sentinelrpc "github.com/nebojsa94/erigon/erigon-lib/gointerfaces/sentinel"
 	"github.com/nebojsa94/erigon/cl/cltypes"
 	"github.com/nebojsa94/erigon/cl/persistence"
 	"github.com/ledgerwatch/log/v3"

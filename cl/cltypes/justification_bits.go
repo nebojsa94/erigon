@@ -3,8 +3,8 @@ package cltypes
 import (
 	"encoding/json"
 
-	"github.com/nebojsa94/erigon-lib/common/hexutility"
-	"github.com/nebojsa94/erigon-lib/types/clonable"
+	"github.com/nebojsa94/erigon/erigon-lib/common/hexutility"
+	"github.com/nebojsa94/erigon/erigon-lib/types/clonable"
 	"github.com/nebojsa94/erigon/cl/utils"
 )
 

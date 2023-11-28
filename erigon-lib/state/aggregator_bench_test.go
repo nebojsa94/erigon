@@ -14,13 +14,13 @@ import (
 	"github.com/ledgerwatch/log/v3"
 	"github.com/stretchr/testify/require"
 
-	"github.com/nebojsa94/erigon-lib/commitment"
-	"github.com/nebojsa94/erigon-lib/common"
-	"github.com/nebojsa94/erigon-lib/common/length"
-	"github.com/nebojsa94/erigon-lib/compress"
-	"github.com/nebojsa94/erigon-lib/kv"
-	"github.com/nebojsa94/erigon-lib/kv/mdbx"
-	"github.com/nebojsa94/erigon-lib/recsplit"
+	"github.com/nebojsa94/erigon/erigon-lib/commitment"
+	"github.com/nebojsa94/erigon/erigon-lib/common"
+	"github.com/nebojsa94/erigon/erigon-lib/common/length"
+	"github.com/nebojsa94/erigon/erigon-lib/compress"
+	"github.com/nebojsa94/erigon/erigon-lib/kv"
+	"github.com/nebojsa94/erigon/erigon-lib/kv/mdbx"
+	"github.com/nebojsa94/erigon/erigon-lib/recsplit"
 )
 
 func testDbAndAggregatorBench(b *testing.B, aggStep uint64) (string, kv.RwDB, *Aggregator) {

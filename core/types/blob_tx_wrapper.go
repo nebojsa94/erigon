@@ -10,11 +10,11 @@ import (
 	gokzg4844 "github.com/crate-crypto/go-kzg-4844"
 	"github.com/holiman/uint256"
 
-	"github.com/nebojsa94/erigon-lib/chain"
-	libcommon "github.com/nebojsa94/erigon-lib/common"
-	"github.com/nebojsa94/erigon-lib/common/fixedgas"
-	libkzg "github.com/nebojsa94/erigon-lib/crypto/kzg"
-	types2 "github.com/nebojsa94/erigon-lib/types"
+	"github.com/nebojsa94/erigon/erigon-lib/chain"
+	libcommon "github.com/nebojsa94/erigon/erigon-lib/common"
+	"github.com/nebojsa94/erigon/erigon-lib/common/fixedgas"
+	libkzg "github.com/nebojsa94/erigon/erigon-lib/crypto/kzg"
+	types2 "github.com/nebojsa94/erigon/erigon-lib/types"
 
 	"github.com/nebojsa94/erigon/rlp"
 )

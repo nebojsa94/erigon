@@ -9,8 +9,8 @@ import (
 
 	"github.com/google/btree"
 	lru "github.com/hashicorp/golang-lru/v2"
-	"github.com/nebojsa94/erigon-lib/common"
-	"github.com/nebojsa94/erigon-lib/etl"
+	"github.com/nebojsa94/erigon/erigon-lib/common"
+	"github.com/nebojsa94/erigon/erigon-lib/etl"
 	"github.com/nebojsa94/erigon/consensus"
 	"github.com/nebojsa94/erigon/core/types"
 	"github.com/nebojsa94/erigon/rlp"

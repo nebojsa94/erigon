@@ -16,11 +16,11 @@ package membatchwithdb
 import (
 	"testing"
 
-	"github.com/nebojsa94/erigon-lib/kv/memdb"
+	"github.com/nebojsa94/erigon/erigon-lib/kv/memdb"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/nebojsa94/erigon-lib/kv"
+	"github.com/nebojsa94/erigon/erigon-lib/kv"
 )
 
 func initializeDbNonDupSort(rwTx kv.RwTx) {

@@ -12,7 +12,7 @@ import (
 
 	"github.com/nebojsa94/erigon/cmd/utils"
 
-	"github.com/nebojsa94/erigon-lib/common/dbg"
+	"github.com/nebojsa94/erigon/erigon-lib/common/dbg"
 	devnet_args "github.com/nebojsa94/erigon/cmd/devnet/args"
 	"github.com/nebojsa94/erigon/cmd/devnet/requests"
 	"github.com/nebojsa94/erigon/core/types"

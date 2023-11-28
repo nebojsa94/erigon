@@ -9,7 +9,7 @@ import (
 	"sort"
 	"strings"
 
-	libcommon "github.com/nebojsa94/erigon-lib/common"
+	libcommon "github.com/nebojsa94/erigon/erigon-lib/common"
 )
 
 // Validator represets Volatile state for each Validator

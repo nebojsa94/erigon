@@ -8,8 +8,8 @@ import (
 	"github.com/nebojsa94/erigon/rpc/rpccfg"
 	"github.com/stretchr/testify/assert"
 
-	libcommon "github.com/nebojsa94/erigon-lib/common"
-	"github.com/nebojsa94/erigon-lib/common/hexutility"
+	libcommon "github.com/nebojsa94/erigon/erigon-lib/common"
+	"github.com/nebojsa94/erigon/erigon-lib/common/hexutility"
 
 	"github.com/nebojsa94/erigon/cmd/rpcdaemon/rpcdaemontest"
 	"github.com/nebojsa94/erigon/common"

@@ -7,8 +7,8 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/nebojsa94/erigon-lib/common/hexutility"
-	"github.com/nebojsa94/erigon-lib/common/length"
+	"github.com/nebojsa94/erigon/erigon-lib/common/hexutility"
+	"github.com/nebojsa94/erigon/erigon-lib/common/length"
 )
 
 var (

@@ -24,8 +24,8 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/nebojsa94/erigon-lib/chain"
-	"github.com/nebojsa94/erigon-lib/common"
+	"github.com/nebojsa94/erigon/erigon-lib/chain"
+	"github.com/nebojsa94/erigon/erigon-lib/common"
 )
 
 func TestCheckCompatible(t *testing.T) {

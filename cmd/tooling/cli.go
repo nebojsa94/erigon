@@ -12,8 +12,8 @@ import (
 	"github.com/nebojsa94/erigon/turbo/snapshotsync/freezeblocks"
 	"golang.org/x/net/context"
 
-	"github.com/nebojsa94/erigon-lib/common/datadir"
-	"github.com/nebojsa94/erigon-lib/downloader/snaptype"
+	"github.com/nebojsa94/erigon/erigon-lib/common/datadir"
+	"github.com/nebojsa94/erigon/erigon-lib/downloader/snaptype"
 	"github.com/nebojsa94/erigon/cl/persistence"
 	"github.com/nebojsa94/erigon/cl/persistence/beacon_indicies"
 	"github.com/nebojsa94/erigon/cl/persistence/db_config"

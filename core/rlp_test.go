@@ -22,8 +22,8 @@ import (
 	"math/big"
 	"testing"
 
-	libcommon "github.com/nebojsa94/erigon-lib/common"
-	"github.com/nebojsa94/erigon-lib/common/datadir"
+	libcommon "github.com/nebojsa94/erigon/erigon-lib/common"
+	"github.com/nebojsa94/erigon/erigon-lib/common/datadir"
 	"github.com/nebojsa94/erigon/core/state/temporal"
 	"golang.org/x/crypto/sha3"
 

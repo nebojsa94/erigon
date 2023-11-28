@@ -4,10 +4,10 @@ import (
 	"context"
 	"testing"
 
-	libcommon "github.com/nebojsa94/erigon-lib/common"
-	"github.com/nebojsa94/erigon-lib/gointerfaces"
-	"github.com/nebojsa94/erigon-lib/gointerfaces/remote"
-	types2 "github.com/nebojsa94/erigon-lib/gointerfaces/types"
+	libcommon "github.com/nebojsa94/erigon/erigon-lib/common"
+	"github.com/nebojsa94/erigon/erigon-lib/gointerfaces"
+	"github.com/nebojsa94/erigon/erigon-lib/gointerfaces/remote"
+	types2 "github.com/nebojsa94/erigon/erigon-lib/gointerfaces/types"
 	"google.golang.org/grpc"
 
 	"github.com/nebojsa94/erigon/turbo/shards"

@@ -9,8 +9,8 @@ import (
 	jsoniter "github.com/json-iterator/go"
 	"github.com/stretchr/testify/assert"
 
-	"github.com/nebojsa94/erigon-lib/common"
-	"github.com/nebojsa94/erigon-lib/kv/kvcache"
+	"github.com/nebojsa94/erigon/erigon-lib/common"
+	"github.com/nebojsa94/erigon/erigon-lib/kv/kvcache"
 	"github.com/nebojsa94/erigon/cmd/rpcdaemon/cli/httpcfg"
 	"github.com/nebojsa94/erigon/cmd/rpcdaemon/rpcdaemontest"
 	"github.com/nebojsa94/erigon/eth/tracers"

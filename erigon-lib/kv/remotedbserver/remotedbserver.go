@@ -31,14 +31,14 @@ import (
 	"google.golang.org/protobuf/proto"
 	"google.golang.org/protobuf/types/known/emptypb"
 
-	"github.com/nebojsa94/erigon-lib/common"
-	"github.com/nebojsa94/erigon-lib/common/dbg"
-	"github.com/nebojsa94/erigon-lib/common/hexutility"
-	"github.com/nebojsa94/erigon-lib/gointerfaces/remote"
-	"github.com/nebojsa94/erigon-lib/gointerfaces/types"
-	"github.com/nebojsa94/erigon-lib/kv"
-	"github.com/nebojsa94/erigon-lib/kv/iter"
-	"github.com/nebojsa94/erigon-lib/kv/order"
+	"github.com/nebojsa94/erigon/erigon-lib/common"
+	"github.com/nebojsa94/erigon/erigon-lib/common/dbg"
+	"github.com/nebojsa94/erigon/erigon-lib/common/hexutility"
+	"github.com/nebojsa94/erigon/erigon-lib/gointerfaces/remote"
+	"github.com/nebojsa94/erigon/erigon-lib/gointerfaces/types"
+	"github.com/nebojsa94/erigon/erigon-lib/kv"
+	"github.com/nebojsa94/erigon/erigon-lib/kv/iter"
+	"github.com/nebojsa94/erigon/erigon-lib/kv/order"
 )
 
 // MaxTxTTL - kv interface provide high-consistancy guaranties: Serializable Isolations Level https://en.wikipedia.org/wiki/Isolation_(database_systems)

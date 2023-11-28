@@ -1,8 +1,8 @@
 package whitelist
 
 import (
-	"github.com/nebojsa94/erigon-lib/common"
-	"github.com/nebojsa94/erigon-lib/metrics"
+	"github.com/nebojsa94/erigon/erigon-lib/common"
+	"github.com/nebojsa94/erigon/erigon-lib/metrics"
 	"github.com/nebojsa94/erigon/consensus/bor/finality/rawdb"
 	"github.com/nebojsa94/erigon/core/types"
 )

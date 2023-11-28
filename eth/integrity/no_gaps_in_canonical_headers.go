@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/nebojsa94/erigon-lib/common"
-	"github.com/nebojsa94/erigon-lib/kv"
+	"github.com/nebojsa94/erigon/erigon-lib/common"
+	"github.com/nebojsa94/erigon/erigon-lib/kv"
 	"github.com/nebojsa94/erigon/core/rawdb"
 	"github.com/nebojsa94/erigon/eth/stagedsync/stages"
 	"github.com/nebojsa94/erigon/turbo/services"

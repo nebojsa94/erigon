@@ -11,7 +11,7 @@ import (
 	"sort"
 	"time"
 
-	"github.com/nebojsa94/erigon-lib/metrics"
+	"github.com/nebojsa94/erigon/erigon-lib/metrics"
 
 	"github.com/nebojsa94/erigon/consensus/bor/clerk"
 	"github.com/nebojsa94/erigon/consensus/bor/heimdall/checkpoint"

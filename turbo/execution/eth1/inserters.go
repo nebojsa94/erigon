@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/nebojsa94/erigon-lib/gointerfaces/execution"
+	"github.com/nebojsa94/erigon/erigon-lib/gointerfaces/execution"
 	"github.com/nebojsa94/erigon/core/rawdb"
 	"github.com/nebojsa94/erigon/turbo/execution/eth1/eth1_utils"
 )

@@ -19,7 +19,7 @@ package iter
 import (
 	"bytes"
 
-	"github.com/nebojsa94/erigon-lib/kv/order"
+	"github.com/nebojsa94/erigon/erigon-lib/kv/order"
 	"golang.org/x/exp/constraints"
 	"golang.org/x/exp/slices"
 )

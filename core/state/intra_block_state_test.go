@@ -32,8 +32,8 @@ import (
 	"testing/quick"
 
 	"github.com/holiman/uint256"
-	libcommon "github.com/nebojsa94/erigon-lib/common"
-	"github.com/nebojsa94/erigon-lib/kv/memdb"
+	libcommon "github.com/nebojsa94/erigon/erigon-lib/common"
+	"github.com/nebojsa94/erigon/erigon-lib/kv/memdb"
 	"github.com/nebojsa94/erigon/core/types"
 )
 

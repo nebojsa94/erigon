@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/Giulio2002/bls"
-	libcommon "github.com/nebojsa94/erigon-lib/common"
+	libcommon "github.com/nebojsa94/erigon/erigon-lib/common"
 
 	"github.com/nebojsa94/erigon/cl/abstract"
 	"github.com/nebojsa94/erigon/cl/clparams"

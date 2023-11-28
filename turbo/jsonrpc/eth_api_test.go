@@ -5,13 +5,13 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/nebojsa94/erigon-lib/common/hexutil"
+	"github.com/nebojsa94/erigon/erigon-lib/common/hexutil"
 
 	"github.com/holiman/uint256"
-	"github.com/nebojsa94/erigon-lib/common"
+	"github.com/nebojsa94/erigon/erigon-lib/common"
 	"github.com/stretchr/testify/assert"
 
-	"github.com/nebojsa94/erigon-lib/kv/kvcache"
+	"github.com/nebojsa94/erigon/erigon-lib/kv/kvcache"
 	"github.com/nebojsa94/erigon/core"
 	"github.com/nebojsa94/erigon/rpc"
 	"github.com/nebojsa94/erigon/rpc/rpccfg"

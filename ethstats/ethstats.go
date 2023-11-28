@@ -32,8 +32,8 @@ import (
 	"time"
 
 	"github.com/gorilla/websocket"
-	libcommon "github.com/nebojsa94/erigon-lib/common"
-	"github.com/nebojsa94/erigon-lib/kv"
+	libcommon "github.com/nebojsa94/erigon/erigon-lib/common"
+	"github.com/nebojsa94/erigon/erigon-lib/kv"
 	"github.com/nebojsa94/erigon/turbo/services"
 	"github.com/ledgerwatch/log/v3"
 

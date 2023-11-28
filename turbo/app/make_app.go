@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/nebojsa94/erigon-lib/common/datadir"
+	"github.com/nebojsa94/erigon/erigon-lib/common/datadir"
 	"github.com/nebojsa94/erigon/turbo/logging"
 	"github.com/ledgerwatch/log/v3"
 	"github.com/urfave/cli/v2"

@@ -23,8 +23,8 @@ import (
 	"runtime"
 	"testing"
 
-	"github.com/nebojsa94/erigon-lib/common/datadir"
-	"github.com/nebojsa94/erigon-lib/kv"
+	"github.com/nebojsa94/erigon/erigon-lib/common/datadir"
+	"github.com/nebojsa94/erigon/erigon-lib/kv"
 	"github.com/nebojsa94/erigon/crypto"
 	"github.com/nebojsa94/erigon/node/nodecfg"
 	"github.com/nebojsa94/erigon/p2p"

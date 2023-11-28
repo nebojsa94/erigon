@@ -20,9 +20,9 @@ import (
 	"github.com/nebojsa94/erigon/cl/phase1/core/state/lru"
 	"sync"
 
-	libcommon "github.com/nebojsa94/erigon-lib/common"
-	"github.com/nebojsa94/erigon-lib/kv"
-	"github.com/nebojsa94/erigon-lib/kv/membatchwithdb"
+	libcommon "github.com/nebojsa94/erigon/erigon-lib/common"
+	"github.com/nebojsa94/erigon/erigon-lib/kv"
+	"github.com/nebojsa94/erigon/erigon-lib/kv/membatchwithdb"
 	"github.com/nebojsa94/erigon/consensus"
 	"github.com/nebojsa94/erigon/eth/stagedsync/stages"
 	"github.com/nebojsa94/erigon/turbo/engineapi/engine_types"

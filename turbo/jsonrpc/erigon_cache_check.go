@@ -3,7 +3,7 @@ package jsonrpc
 import (
 	"context"
 
-	"github.com/nebojsa94/erigon-lib/kv/kvcache"
+	"github.com/nebojsa94/erigon/erigon-lib/kv/kvcache"
 )
 
 func (api *ErigonImpl) CacheCheck() (*kvcache.CacheValidationResult, error) {

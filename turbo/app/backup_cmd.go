@@ -2,14 +2,14 @@ package app
 
 import (
 	"fmt"
-	"github.com/nebojsa94/erigon-lib/common"
+	"github.com/nebojsa94/erigon/erigon-lib/common"
 	"os"
 	"path/filepath"
 
 	"github.com/c2h5oh/datasize"
-	"github.com/nebojsa94/erigon-lib/common/datadir"
-	"github.com/nebojsa94/erigon-lib/common/dir"
-	"github.com/nebojsa94/erigon-lib/kv"
+	"github.com/nebojsa94/erigon/erigon-lib/common/datadir"
+	"github.com/nebojsa94/erigon/erigon-lib/common/dir"
+	"github.com/nebojsa94/erigon/erigon-lib/kv"
 	"github.com/nebojsa94/erigon/cmd/utils"
 	"github.com/nebojsa94/erigon/cmd/utils/flags"
 	"github.com/nebojsa94/erigon/turbo/backup"

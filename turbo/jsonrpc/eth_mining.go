@@ -3,10 +3,10 @@ package jsonrpc
 import (
 	"context"
 	"errors"
-	"github.com/nebojsa94/erigon-lib/common/hexutil"
+	"github.com/nebojsa94/erigon/erigon-lib/common/hexutil"
 
-	libcommon "github.com/nebojsa94/erigon-lib/common"
-	"github.com/nebojsa94/erigon-lib/gointerfaces/txpool"
+	libcommon "github.com/nebojsa94/erigon/erigon-lib/common"
+	"github.com/nebojsa94/erigon/erigon-lib/gointerfaces/txpool"
 	"google.golang.org/grpc/status"
 
 	"github.com/nebojsa94/erigon/core/types"

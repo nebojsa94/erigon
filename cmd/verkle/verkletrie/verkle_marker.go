@@ -3,8 +3,8 @@ package verkletrie
 import (
 	"context"
 
-	"github.com/nebojsa94/erigon-lib/kv"
-	"github.com/nebojsa94/erigon-lib/kv/mdbx"
+	"github.com/nebojsa94/erigon/erigon-lib/kv"
+	"github.com/nebojsa94/erigon/erigon-lib/kv/mdbx"
 )
 
 type VerkleMarker struct {

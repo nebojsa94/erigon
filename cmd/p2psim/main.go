@@ -39,7 +39,7 @@ import (
 	"context"
 	"encoding/json"
 	"fmt"
-	"github.com/nebojsa94/erigon-lib/common"
+	"github.com/nebojsa94/erigon/erigon-lib/common"
 	"io"
 	"os"
 	"strings"

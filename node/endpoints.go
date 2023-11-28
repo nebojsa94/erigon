@@ -25,7 +25,7 @@ import (
 	"net/url"
 	"time"
 
-	libcommon "github.com/nebojsa94/erigon-lib/common"
+	libcommon "github.com/nebojsa94/erigon/erigon-lib/common"
 	"github.com/nebojsa94/erigon/rpc"
 	"github.com/nebojsa94/erigon/rpc/rpccfg"
 	"github.com/ledgerwatch/log/v3"

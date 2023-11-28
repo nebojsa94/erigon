@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 
-	libcommon "github.com/nebojsa94/erigon-lib/common"
-	"github.com/nebojsa94/erigon-lib/gointerfaces/execution"
+	libcommon "github.com/nebojsa94/erigon/erigon-lib/common"
+	"github.com/nebojsa94/erigon/erigon-lib/gointerfaces/execution"
 	"github.com/nebojsa94/erigon/cl/cltypes"
 	"github.com/nebojsa94/erigon/core/types"
 	"github.com/nebojsa94/erigon/turbo/execution/eth1/eth1_chain_reader.go"

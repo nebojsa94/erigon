@@ -1,7 +1,7 @@
 package misc
 
 import (
-	libcommon "github.com/nebojsa94/erigon-lib/common"
+	libcommon "github.com/nebojsa94/erigon/erigon-lib/common"
 	"github.com/nebojsa94/erigon/core/types"
 )
 

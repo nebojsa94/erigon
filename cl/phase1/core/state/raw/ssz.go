@@ -5,8 +5,8 @@ import (
 
 	ssz2 "github.com/nebojsa94/erigon/cl/ssz"
 
-	"github.com/nebojsa94/erigon-lib/types/clonable"
-	"github.com/nebojsa94/erigon-lib/types/ssz"
+	"github.com/nebojsa94/erigon/erigon-lib/types/clonable"
+	"github.com/nebojsa94/erigon/erigon-lib/types/ssz"
 
 	"github.com/nebojsa94/erigon/cl/clparams"
 	"github.com/nebojsa94/erigon/cl/cltypes"

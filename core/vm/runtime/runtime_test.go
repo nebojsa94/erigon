@@ -24,9 +24,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/nebojsa94/erigon-lib/chain"
-	libcommon "github.com/nebojsa94/erigon-lib/common"
-	"github.com/nebojsa94/erigon-lib/kv/memdb"
+	"github.com/nebojsa94/erigon/erigon-lib/chain"
+	libcommon "github.com/nebojsa94/erigon/erigon-lib/common"
+	"github.com/nebojsa94/erigon/erigon-lib/kv/memdb"
 	"github.com/nebojsa94/erigon/accounts/abi"
 	"github.com/nebojsa94/erigon/common"
 	"github.com/nebojsa94/erigon/consensus"

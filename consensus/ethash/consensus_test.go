@@ -25,8 +25,8 @@ import (
 	"testing"
 
 	"github.com/goccy/go-json"
-	"github.com/nebojsa94/erigon-lib/chain"
-	libcommon "github.com/nebojsa94/erigon-lib/common"
+	"github.com/nebojsa94/erigon/erigon-lib/chain"
+	libcommon "github.com/nebojsa94/erigon/erigon-lib/common"
 
 	"github.com/nebojsa94/erigon/common/math"
 	"github.com/nebojsa94/erigon/core/types"

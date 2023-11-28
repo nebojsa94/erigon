@@ -19,14 +19,14 @@ package native
 import (
 	"bytes"
 	"encoding/json"
-	"github.com/nebojsa94/erigon-lib/common/hexutil"
+	"github.com/nebojsa94/erigon/erigon-lib/common/hexutil"
 	"math/big"
 	"sync/atomic"
 
 	"github.com/holiman/uint256"
 
-	libcommon "github.com/nebojsa94/erigon-lib/common"
-	"github.com/nebojsa94/erigon-lib/common/hexutility"
+	libcommon "github.com/nebojsa94/erigon/erigon-lib/common"
+	"github.com/nebojsa94/erigon/erigon-lib/common/hexutility"
 
 	"github.com/nebojsa94/erigon/core/vm"
 	"github.com/nebojsa94/erigon/crypto"

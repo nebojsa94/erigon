@@ -29,9 +29,9 @@ import (
 	lg "github.com/anacrolix/log"
 	"github.com/anacrolix/torrent"
 	"github.com/c2h5oh/datasize"
-	"github.com/nebojsa94/erigon-lib/chain/snapcfg"
-	"github.com/nebojsa94/erigon-lib/common/datadir"
-	"github.com/nebojsa94/erigon-lib/common/dir"
+	"github.com/nebojsa94/erigon/erigon-lib/chain/snapcfg"
+	"github.com/nebojsa94/erigon/erigon-lib/common/datadir"
+	"github.com/nebojsa94/erigon/erigon-lib/common/dir"
 	"github.com/ledgerwatch/log/v3"
 	"golang.org/x/time/rate"
 )

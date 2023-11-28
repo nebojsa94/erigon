@@ -3,8 +3,8 @@ package solid
 import (
 	"encoding/json"
 
-	"github.com/nebojsa94/erigon-lib/common/length"
-	"github.com/nebojsa94/erigon-lib/types/clonable"
+	"github.com/nebojsa94/erigon/erigon-lib/common/length"
+	"github.com/nebojsa94/erigon/erigon-lib/types/clonable"
 )
 
 type uint64VectorSSZ struct {

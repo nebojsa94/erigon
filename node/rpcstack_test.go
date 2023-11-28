@@ -19,7 +19,7 @@ package node
 import (
 	"bytes"
 	"fmt"
-	"github.com/nebojsa94/erigon-lib/common"
+	"github.com/nebojsa94/erigon/erigon-lib/common"
 	"io"
 	"net/http"
 	"net/url"

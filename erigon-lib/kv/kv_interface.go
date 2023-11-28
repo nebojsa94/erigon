@@ -22,9 +22,9 @@ import (
 	"fmt"
 	"unsafe"
 
-	"github.com/nebojsa94/erigon-lib/kv/iter"
-	"github.com/nebojsa94/erigon-lib/kv/order"
-	"github.com/nebojsa94/erigon-lib/metrics"
+	"github.com/nebojsa94/erigon/erigon-lib/kv/iter"
+	"github.com/nebojsa94/erigon/erigon-lib/kv/order"
+	"github.com/nebojsa94/erigon/erigon-lib/metrics"
 )
 
 //Variables Naming:

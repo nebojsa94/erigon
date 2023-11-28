@@ -5,8 +5,8 @@ import (
 
 	"github.com/huandu/xstrings"
 
-	"github.com/nebojsa94/erigon-lib/kv"
-	"github.com/nebojsa94/erigon-lib/metrics"
+	"github.com/nebojsa94/erigon/erigon-lib/kv"
+	"github.com/nebojsa94/erigon/erigon-lib/metrics"
 	"github.com/nebojsa94/erigon/eth/stagedsync/stages"
 )
 

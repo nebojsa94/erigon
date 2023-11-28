@@ -9,12 +9,12 @@ import (
 	"github.com/RoaringBitmap/roaring/roaring64"
 	"github.com/ledgerwatch/log/v3"
 
-	"github.com/nebojsa94/erigon-lib/chain"
-	libcommon "github.com/nebojsa94/erigon-lib/common"
-	"github.com/nebojsa94/erigon-lib/common/length"
-	"github.com/nebojsa94/erigon-lib/etl"
-	"github.com/nebojsa94/erigon-lib/kv"
-	libstate "github.com/nebojsa94/erigon-lib/state"
+	"github.com/nebojsa94/erigon/erigon-lib/chain"
+	libcommon "github.com/nebojsa94/erigon/erigon-lib/common"
+	"github.com/nebojsa94/erigon/erigon-lib/common/length"
+	"github.com/nebojsa94/erigon/erigon-lib/etl"
+	"github.com/nebojsa94/erigon/erigon-lib/kv"
+	libstate "github.com/nebojsa94/erigon/erigon-lib/state"
 
 	"github.com/nebojsa94/erigon/cmd/state/exec22"
 	"github.com/nebojsa94/erigon/consensus"

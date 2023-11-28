@@ -25,7 +25,7 @@ import (
 	"runtime"
 	"unsafe"
 
-	"github.com/nebojsa94/erigon-lib/kv"
+	"github.com/nebojsa94/erigon/erigon-lib/kv"
 	"github.com/nebojsa94/erigon/consensus"
 )
 

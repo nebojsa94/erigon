@@ -12,7 +12,7 @@ import (
 	"time"
 
 	"github.com/holiman/uint256"
-	"github.com/nebojsa94/erigon-lib/chain/networkname"
+	"github.com/nebojsa94/erigon/erigon-lib/chain/networkname"
 	"github.com/nebojsa94/erigon/common"
 	"github.com/nebojsa94/erigon/common/fdlimit"
 	"github.com/nebojsa94/erigon/core/types"
@@ -23,11 +23,11 @@ import (
 	"github.com/nebojsa94/erigon/tests/bor/helper"
 	"github.com/ledgerwatch/log/v3"
 
-	"github.com/nebojsa94/erigon-lib/gointerfaces"
+	"github.com/nebojsa94/erigon/erigon-lib/gointerfaces"
 
-	"github.com/nebojsa94/erigon-lib/gointerfaces/remote"
-	"github.com/nebojsa94/erigon-lib/gointerfaces/txpool"
-	txpool_proto "github.com/nebojsa94/erigon-lib/gointerfaces/txpool"
+	"github.com/nebojsa94/erigon/erigon-lib/gointerfaces/remote"
+	"github.com/nebojsa94/erigon/erigon-lib/gointerfaces/txpool"
+	txpool_proto "github.com/nebojsa94/erigon/erigon-lib/gointerfaces/txpool"
 )
 
 const (

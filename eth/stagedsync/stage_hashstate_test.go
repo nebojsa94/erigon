@@ -5,13 +5,13 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/nebojsa94/erigon-lib/common/datadir"
-	"github.com/nebojsa94/erigon-lib/kv"
-	"github.com/nebojsa94/erigon-lib/kv/memdb"
+	"github.com/nebojsa94/erigon/erigon-lib/common/datadir"
+	"github.com/nebojsa94/erigon/erigon-lib/kv"
+	"github.com/nebojsa94/erigon/erigon-lib/kv/memdb"
 	"github.com/nebojsa94/erigon/eth/ethconfig"
 	"github.com/stretchr/testify/require"
 
-	libcommon "github.com/nebojsa94/erigon-lib/common"
+	libcommon "github.com/nebojsa94/erigon/erigon-lib/common"
 	"github.com/ledgerwatch/log/v3"
 )
 

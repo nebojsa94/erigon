@@ -6,7 +6,7 @@ import (
 	"path"
 	"time"
 
-	proto_downloader "github.com/nebojsa94/erigon-lib/gointerfaces/downloader"
+	proto_downloader "github.com/nebojsa94/erigon/erigon-lib/gointerfaces/downloader"
 	"github.com/nebojsa94/erigon/cl/antiquary"
 	"github.com/nebojsa94/erigon/cl/beacon"
 	"github.com/nebojsa94/erigon/cl/beacon/beacon_router_configuration"
@@ -34,10 +34,10 @@ import (
 	"github.com/spf13/afero"
 
 	"github.com/Giulio2002/bls"
-	"github.com/nebojsa94/erigon-lib/common/datadir"
-	"github.com/nebojsa94/erigon-lib/gointerfaces/sentinel"
-	"github.com/nebojsa94/erigon-lib/kv"
-	"github.com/nebojsa94/erigon-lib/kv/mdbx"
+	"github.com/nebojsa94/erigon/erigon-lib/common/datadir"
+	"github.com/nebojsa94/erigon/erigon-lib/gointerfaces/sentinel"
+	"github.com/nebojsa94/erigon/erigon-lib/kv"
+	"github.com/nebojsa94/erigon/erigon-lib/kv/mdbx"
 	"github.com/nebojsa94/erigon/cl/clparams"
 	"github.com/ledgerwatch/log/v3"
 )

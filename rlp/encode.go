@@ -27,7 +27,7 @@ import (
 
 	"github.com/holiman/uint256"
 
-	libcommon "github.com/nebojsa94/erigon-lib/common"
+	libcommon "github.com/nebojsa94/erigon/erigon-lib/common"
 )
 
 // https://github.com/ethereum/wiki/wiki/RLP

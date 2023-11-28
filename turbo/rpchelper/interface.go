@@ -4,10 +4,10 @@ import (
 	"context"
 	"sync/atomic"
 
-	libcommon "github.com/nebojsa94/erigon-lib/common"
-	"github.com/nebojsa94/erigon-lib/gointerfaces/remote"
+	libcommon "github.com/nebojsa94/erigon/erigon-lib/common"
+	"github.com/nebojsa94/erigon/erigon-lib/gointerfaces/remote"
 
-	"github.com/nebojsa94/erigon-lib/kv"
+	"github.com/nebojsa94/erigon/erigon-lib/kv"
 
 	"github.com/nebojsa94/erigon/core/types"
 	"github.com/nebojsa94/erigon/p2p"

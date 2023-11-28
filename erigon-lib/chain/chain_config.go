@@ -22,8 +22,8 @@ import (
 	"sort"
 	"strconv"
 
-	"github.com/nebojsa94/erigon-lib/common"
-	"github.com/nebojsa94/erigon-lib/common/fixedgas"
+	"github.com/nebojsa94/erigon/erigon-lib/common"
+	"github.com/nebojsa94/erigon/erigon-lib/common/fixedgas"
 )
 
 // Config is the core config which determines the blockchain settings.

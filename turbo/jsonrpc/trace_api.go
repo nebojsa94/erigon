@@ -3,11 +3,11 @@ package jsonrpc
 import (
 	"context"
 	"encoding/json"
-	"github.com/nebojsa94/erigon-lib/common/hexutil"
+	"github.com/nebojsa94/erigon/erigon-lib/common/hexutil"
 
 	jsoniter "github.com/json-iterator/go"
-	libcommon "github.com/nebojsa94/erigon-lib/common"
-	"github.com/nebojsa94/erigon-lib/kv"
+	libcommon "github.com/nebojsa94/erigon/erigon-lib/common"
+	"github.com/nebojsa94/erigon/erigon-lib/kv"
 
 	"github.com/nebojsa94/erigon/cmd/rpcdaemon/cli/httpcfg"
 	"github.com/nebojsa94/erigon/rpc"

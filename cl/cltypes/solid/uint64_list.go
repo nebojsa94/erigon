@@ -3,7 +3,7 @@ package solid
 import (
 	"encoding/json"
 
-	"github.com/nebojsa94/erigon-lib/types/clonable"
+	"github.com/nebojsa94/erigon/erigon-lib/types/clonable"
 )
 
 type uint64ListSSZ struct {

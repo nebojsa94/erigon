@@ -31,14 +31,14 @@ import (
 	"github.com/ledgerwatch/log/v3"
 	"golang.org/x/sync/errgroup"
 
-	"github.com/nebojsa94/erigon-lib/commitment"
-	"github.com/nebojsa94/erigon-lib/common"
-	"github.com/nebojsa94/erigon-lib/common/background"
-	"github.com/nebojsa94/erigon-lib/common/length"
-	"github.com/nebojsa94/erigon-lib/kv"
-	"github.com/nebojsa94/erigon-lib/kv/iter"
-	"github.com/nebojsa94/erigon-lib/kv/order"
-	"github.com/nebojsa94/erigon-lib/metrics"
+	"github.com/nebojsa94/erigon/erigon-lib/commitment"
+	"github.com/nebojsa94/erigon/erigon-lib/common"
+	"github.com/nebojsa94/erigon/erigon-lib/common/background"
+	"github.com/nebojsa94/erigon/erigon-lib/common/length"
+	"github.com/nebojsa94/erigon/erigon-lib/kv"
+	"github.com/nebojsa94/erigon/erigon-lib/kv/iter"
+	"github.com/nebojsa94/erigon/erigon-lib/kv/order"
+	"github.com/nebojsa94/erigon/erigon-lib/metrics"
 )
 
 // StepsInBiggestFile - files of this size are completely frozen/immutable.

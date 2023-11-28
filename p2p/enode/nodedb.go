@@ -29,9 +29,9 @@ import (
 	"time"
 
 	"github.com/c2h5oh/datasize"
-	libcommon "github.com/nebojsa94/erigon-lib/common"
-	"github.com/nebojsa94/erigon-lib/kv"
-	"github.com/nebojsa94/erigon-lib/kv/mdbx"
+	libcommon "github.com/nebojsa94/erigon/erigon-lib/common"
+	"github.com/nebojsa94/erigon/erigon-lib/kv"
+	"github.com/nebojsa94/erigon/erigon-lib/kv/mdbx"
 
 	"github.com/nebojsa94/erigon/rlp"
 	"github.com/ledgerwatch/log/v3"

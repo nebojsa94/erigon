@@ -4,7 +4,7 @@ import (
 	"encoding/binary"
 	"fmt"
 
-	"github.com/nebojsa94/erigon-lib/types/ssz"
+	"github.com/nebojsa94/erigon/erigon-lib/types/ssz"
 )
 
 type Sized interface {

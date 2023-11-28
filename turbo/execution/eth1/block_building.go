@@ -7,10 +7,10 @@ import (
 
 	"github.com/holiman/uint256"
 
-	libcommon "github.com/nebojsa94/erigon-lib/common"
-	"github.com/nebojsa94/erigon-lib/gointerfaces"
-	"github.com/nebojsa94/erigon-lib/gointerfaces/execution"
-	types2 "github.com/nebojsa94/erigon-lib/gointerfaces/types"
+	libcommon "github.com/nebojsa94/erigon/erigon-lib/common"
+	"github.com/nebojsa94/erigon/erigon-lib/gointerfaces"
+	"github.com/nebojsa94/erigon/erigon-lib/gointerfaces/execution"
+	types2 "github.com/nebojsa94/erigon/erigon-lib/gointerfaces/types"
 
 	"github.com/nebojsa94/erigon/core"
 	"github.com/nebojsa94/erigon/core/types"

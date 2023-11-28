@@ -3,7 +3,7 @@ package tracers
 import (
 	"encoding/json"
 
-	"github.com/nebojsa94/erigon-lib/common/hexutil"
+	"github.com/nebojsa94/erigon/erigon-lib/common/hexutil"
 	"github.com/nebojsa94/erigon/eth/tracers/logger"
 	"github.com/nebojsa94/erigon/turbo/adapter/ethapi"
 )

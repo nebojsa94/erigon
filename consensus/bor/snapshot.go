@@ -6,9 +6,9 @@ import (
 	"encoding/json"
 
 	lru "github.com/hashicorp/golang-lru/arc/v2"
-	"github.com/nebojsa94/erigon-lib/chain"
-	"github.com/nebojsa94/erigon-lib/common"
-	"github.com/nebojsa94/erigon-lib/kv"
+	"github.com/nebojsa94/erigon/erigon-lib/chain"
+	"github.com/nebojsa94/erigon/erigon-lib/common"
+	"github.com/nebojsa94/erigon/erigon-lib/kv"
 	"github.com/nebojsa94/erigon/consensus/bor/valset"
 	"github.com/nebojsa94/erigon/core/types"
 	"github.com/ledgerwatch/log/v3"

@@ -27,8 +27,8 @@ import (
 
 	"github.com/anacrolix/torrent/metainfo"
 
-	"github.com/nebojsa94/erigon-lib/common/cmp"
-	"github.com/nebojsa94/erigon-lib/common/dir"
+	"github.com/nebojsa94/erigon/erigon-lib/common/cmp"
+	"github.com/nebojsa94/erigon/erigon-lib/common/dir"
 	"golang.org/x/exp/slices"
 )
 

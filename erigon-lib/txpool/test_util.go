@@ -20,9 +20,9 @@ import (
 	"context"
 	"sync"
 
-	"github.com/nebojsa94/erigon-lib/gointerfaces"
-	"github.com/nebojsa94/erigon-lib/gointerfaces/sentry"
-	"github.com/nebojsa94/erigon-lib/types"
+	"github.com/nebojsa94/erigon/erigon-lib/gointerfaces"
+	"github.com/nebojsa94/erigon/erigon-lib/gointerfaces/sentry"
+	"github.com/nebojsa94/erigon/erigon-lib/types"
 	"google.golang.org/protobuf/types/known/emptypb"
 )
 

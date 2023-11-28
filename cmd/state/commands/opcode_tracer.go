@@ -16,11 +16,11 @@ import (
 	"github.com/ledgerwatch/log/v3"
 	"github.com/spf13/cobra"
 
-	chain2 "github.com/nebojsa94/erigon-lib/chain"
-	libcommon "github.com/nebojsa94/erigon-lib/common"
-	"github.com/nebojsa94/erigon-lib/kv"
-	"github.com/nebojsa94/erigon-lib/kv/kvcfg"
-	"github.com/nebojsa94/erigon-lib/kv/mdbx"
+	chain2 "github.com/nebojsa94/erigon/erigon-lib/chain"
+	libcommon "github.com/nebojsa94/erigon/erigon-lib/common"
+	"github.com/nebojsa94/erigon/erigon-lib/kv"
+	"github.com/nebojsa94/erigon/erigon-lib/kv/kvcfg"
+	"github.com/nebojsa94/erigon/erigon-lib/kv/mdbx"
 
 	"github.com/nebojsa94/erigon/common/debug"
 	"github.com/nebojsa94/erigon/consensus"

@@ -22,11 +22,11 @@ import (
 	"testing"
 
 	"github.com/holiman/uint256"
-	"github.com/nebojsa94/erigon-lib/chain"
-	"github.com/nebojsa94/erigon-lib/common"
-	"github.com/nebojsa94/erigon-lib/kv"
-	"github.com/nebojsa94/erigon-lib/kv/kvcfg"
-	"github.com/nebojsa94/erigon-lib/kv/memdb"
+	"github.com/nebojsa94/erigon/erigon-lib/chain"
+	"github.com/nebojsa94/erigon/erigon-lib/common"
+	"github.com/nebojsa94/erigon/erigon-lib/kv"
+	"github.com/nebojsa94/erigon/erigon-lib/kv/kvcfg"
+	"github.com/nebojsa94/erigon/erigon-lib/kv/memdb"
 	checker "gopkg.in/check.v1"
 
 	"github.com/nebojsa94/erigon/core/types/accounts"

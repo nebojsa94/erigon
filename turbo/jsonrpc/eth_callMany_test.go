@@ -8,11 +8,11 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/nebojsa94/erigon-lib/common/hexutil"
+	"github.com/nebojsa94/erigon/erigon-lib/common/hexutil"
 
-	"github.com/nebojsa94/erigon-lib/common/datadir"
-	"github.com/nebojsa94/erigon-lib/common/hexutility"
-	"github.com/nebojsa94/erigon-lib/kv/kvcache"
+	"github.com/nebojsa94/erigon/erigon-lib/common/datadir"
+	"github.com/nebojsa94/erigon/erigon-lib/common/hexutility"
+	"github.com/nebojsa94/erigon/erigon-lib/kv/kvcache"
 
 	"github.com/nebojsa94/erigon/accounts/abi/bind"
 	"github.com/nebojsa94/erigon/accounts/abi/bind/backends"

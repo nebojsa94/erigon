@@ -1,10 +1,10 @@
 package engine_block_downloader
 
 import (
-	libcommon "github.com/nebojsa94/erigon-lib/common"
-	"github.com/nebojsa94/erigon-lib/gointerfaces/execution"
-	"github.com/nebojsa94/erigon-lib/kv/mdbx"
-	"github.com/nebojsa94/erigon-lib/kv/membatchwithdb"
+	libcommon "github.com/nebojsa94/erigon/erigon-lib/common"
+	"github.com/nebojsa94/erigon/erigon-lib/gointerfaces/execution"
+	"github.com/nebojsa94/erigon/erigon-lib/kv/mdbx"
+	"github.com/nebojsa94/erigon/erigon-lib/kv/membatchwithdb"
 	"github.com/nebojsa94/erigon/core/types"
 	"github.com/nebojsa94/erigon/turbo/stages/headerdownload"
 )

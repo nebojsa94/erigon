@@ -23,9 +23,9 @@ import (
 	"time"
 
 	"github.com/c2h5oh/datasize"
-	"github.com/nebojsa94/erigon-lib/common/fixedgas"
-	emath "github.com/nebojsa94/erigon-lib/common/math"
-	"github.com/nebojsa94/erigon-lib/types"
+	"github.com/nebojsa94/erigon/erigon-lib/common/fixedgas"
+	emath "github.com/nebojsa94/erigon/erigon-lib/common/math"
+	"github.com/nebojsa94/erigon/erigon-lib/types"
 )
 
 type Config struct {

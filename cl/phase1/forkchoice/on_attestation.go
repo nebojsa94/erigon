@@ -9,7 +9,7 @@ import (
 	"github.com/nebojsa94/erigon/cl/phase1/core/state"
 	"github.com/ledgerwatch/log/v3"
 
-	libcommon "github.com/nebojsa94/erigon-lib/common"
+	libcommon "github.com/nebojsa94/erigon/erigon-lib/common"
 )
 
 // OnAttestation processes incoming attestations.

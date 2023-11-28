@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/nebojsa94/erigon-lib/common"
+	"github.com/nebojsa94/erigon/erigon-lib/common"
 	"github.com/nebojsa94/erigon/cmd/rpcdaemon/cli"
 	"github.com/nebojsa94/erigon/rpc"
 	"github.com/nebojsa94/erigon/turbo/debug"

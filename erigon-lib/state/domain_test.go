@@ -26,14 +26,14 @@ import (
 	"testing"
 	"time"
 
-	"github.com/nebojsa94/erigon-lib/common/background"
+	"github.com/nebojsa94/erigon/erigon-lib/common/background"
 	"github.com/ledgerwatch/log/v3"
 	"github.com/stretchr/testify/require"
 	btree2 "github.com/tidwall/btree"
 
-	"github.com/nebojsa94/erigon-lib/kv"
-	"github.com/nebojsa94/erigon-lib/kv/mdbx"
-	"github.com/nebojsa94/erigon-lib/recsplit"
+	"github.com/nebojsa94/erigon/erigon-lib/kv"
+	"github.com/nebojsa94/erigon/erigon-lib/kv/mdbx"
+	"github.com/nebojsa94/erigon/erigon-lib/recsplit"
 )
 
 func testDbAndDomain(t *testing.T, logger log.Logger) (string, kv.RwDB, *Domain) {

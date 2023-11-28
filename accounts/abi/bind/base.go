@@ -23,7 +23,7 @@ import (
 	"math/big"
 
 	"github.com/holiman/uint256"
-	libcommon "github.com/nebojsa94/erigon-lib/common"
+	libcommon "github.com/nebojsa94/erigon/erigon-lib/common"
 
 	ethereum "github.com/nebojsa94/erigon"
 	"github.com/nebojsa94/erigon/accounts/abi"

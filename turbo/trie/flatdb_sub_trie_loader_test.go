@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"testing"
 
-	libcommon "github.com/nebojsa94/erigon-lib/common"
-	"github.com/nebojsa94/erigon-lib/kv"
+	libcommon "github.com/nebojsa94/erigon/erigon-lib/common"
+	"github.com/nebojsa94/erigon/erigon-lib/kv"
 	"github.com/stretchr/testify/assert"
 
 	"github.com/nebojsa94/erigon/common"

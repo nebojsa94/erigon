@@ -3,9 +3,9 @@ package fromdb
 import (
 	"context"
 
-	"github.com/nebojsa94/erigon-lib/chain"
-	"github.com/nebojsa94/erigon-lib/kv"
-	"github.com/nebojsa94/erigon-lib/kv/kvcfg"
+	"github.com/nebojsa94/erigon/erigon-lib/chain"
+	"github.com/nebojsa94/erigon/erigon-lib/kv"
+	"github.com/nebojsa94/erigon/erigon-lib/kv/kvcfg"
 	"github.com/nebojsa94/erigon/cmd/hack/tool"
 	"github.com/nebojsa94/erigon/ethdb/prune"
 )

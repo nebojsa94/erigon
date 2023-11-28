@@ -2,13 +2,13 @@ package jsonrpc
 
 import (
 	"context"
-	"github.com/nebojsa94/erigon-lib/common/hexutil"
+	"github.com/nebojsa94/erigon/erigon-lib/common/hexutil"
 
-	"github.com/nebojsa94/erigon-lib/common"
+	"github.com/nebojsa94/erigon/erigon-lib/common"
 
 	"github.com/nebojsa94/erigon/eth/filters"
 
-	"github.com/nebojsa94/erigon-lib/kv"
+	"github.com/nebojsa94/erigon/erigon-lib/kv"
 
 	"github.com/nebojsa94/erigon/core/types"
 	"github.com/nebojsa94/erigon/p2p"

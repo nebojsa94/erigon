@@ -1,10 +1,10 @@
 package jsonrpc
 
 import (
-	"github.com/nebojsa94/erigon-lib/gointerfaces/txpool"
-	"github.com/nebojsa94/erigon-lib/kv"
-	"github.com/nebojsa94/erigon-lib/kv/kvcache"
-	libstate "github.com/nebojsa94/erigon-lib/state"
+	"github.com/nebojsa94/erigon/erigon-lib/gointerfaces/txpool"
+	"github.com/nebojsa94/erigon/erigon-lib/kv"
+	"github.com/nebojsa94/erigon/erigon-lib/kv/kvcache"
+	libstate "github.com/nebojsa94/erigon/erigon-lib/state"
 	"github.com/nebojsa94/erigon/cmd/rpcdaemon/cli/httpcfg"
 	"github.com/nebojsa94/erigon/consensus"
 	"github.com/nebojsa94/erigon/consensus/bor"

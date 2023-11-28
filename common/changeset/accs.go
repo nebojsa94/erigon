@@ -1,12 +1,12 @@
 package changeset
 
 import (
-	common2 "github.com/nebojsa94/erigon-lib/common"
-	libcommon "github.com/nebojsa94/erigon-lib/common"
-	"github.com/nebojsa94/erigon-lib/common/hexutility"
-	"github.com/nebojsa94/erigon-lib/etl"
-	"github.com/nebojsa94/erigon-lib/kv"
-	"github.com/nebojsa94/erigon-lib/kv/temporal/historyv2"
+	common2 "github.com/nebojsa94/erigon/erigon-lib/common"
+	libcommon "github.com/nebojsa94/erigon/erigon-lib/common"
+	"github.com/nebojsa94/erigon/erigon-lib/common/hexutility"
+	"github.com/nebojsa94/erigon/erigon-lib/etl"
+	"github.com/nebojsa94/erigon/erigon-lib/kv"
+	"github.com/nebojsa94/erigon/erigon-lib/kv/temporal/historyv2"
 
 	"github.com/nebojsa94/erigon/ethdb"
 )

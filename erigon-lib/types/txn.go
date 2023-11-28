@@ -31,13 +31,13 @@ import (
 	"github.com/ledgerwatch/secp256k1"
 	"golang.org/x/crypto/sha3"
 
-	"github.com/nebojsa94/erigon-lib/common"
-	"github.com/nebojsa94/erigon-lib/common/fixedgas"
-	"github.com/nebojsa94/erigon-lib/common/length"
-	"github.com/nebojsa94/erigon-lib/common/u256"
-	"github.com/nebojsa94/erigon-lib/crypto"
-	"github.com/nebojsa94/erigon-lib/gointerfaces/types"
-	"github.com/nebojsa94/erigon-lib/rlp"
+	"github.com/nebojsa94/erigon/erigon-lib/common"
+	"github.com/nebojsa94/erigon/erigon-lib/common/fixedgas"
+	"github.com/nebojsa94/erigon/erigon-lib/common/length"
+	"github.com/nebojsa94/erigon/erigon-lib/common/u256"
+	"github.com/nebojsa94/erigon/erigon-lib/crypto"
+	"github.com/nebojsa94/erigon/erigon-lib/gointerfaces/types"
+	"github.com/nebojsa94/erigon/erigon-lib/rlp"
 )
 
 type TxParseConfig struct {

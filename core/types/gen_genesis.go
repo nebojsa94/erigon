@@ -7,9 +7,9 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/nebojsa94/erigon-lib/chain"
-	"github.com/nebojsa94/erigon-lib/common"
-	"github.com/nebojsa94/erigon-lib/common/hexutility"
+	"github.com/nebojsa94/erigon/erigon-lib/chain"
+	"github.com/nebojsa94/erigon/erigon-lib/common"
+	"github.com/nebojsa94/erigon/erigon-lib/common/hexutility"
 	common0 "github.com/nebojsa94/erigon/common"
 	"github.com/nebojsa94/erigon/common/math"
 )

@@ -22,8 +22,8 @@ import (
 	"fmt"
 	"os"
 
-	libcommon "github.com/nebojsa94/erigon-lib/common"
-	"github.com/nebojsa94/erigon-lib/common/length"
+	libcommon "github.com/nebojsa94/erigon/erigon-lib/common"
+	"github.com/nebojsa94/erigon/erigon-lib/common/length"
 
 	"github.com/nebojsa94/erigon/common"
 	"github.com/nebojsa94/erigon/core/types/accounts"

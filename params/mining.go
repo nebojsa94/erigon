@@ -5,8 +5,8 @@ import (
 	"math/big"
 	"time"
 
-	libcommon "github.com/nebojsa94/erigon-lib/common"
-	"github.com/nebojsa94/erigon-lib/common/hexutility"
+	libcommon "github.com/nebojsa94/erigon/erigon-lib/common"
+	"github.com/nebojsa94/erigon/erigon-lib/common/hexutility"
 )
 
 // MiningConfig is the configuration parameters of mining.

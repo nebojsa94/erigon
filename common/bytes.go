@@ -20,7 +20,7 @@ package common
 import (
 	"bytes"
 	"encoding/hex"
-	"github.com/nebojsa94/erigon-lib/common"
+	"github.com/nebojsa94/erigon/erigon-lib/common"
 )
 
 // FromHex returns the bytes represented by the hexadecimal string s.

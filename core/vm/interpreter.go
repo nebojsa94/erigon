@@ -20,9 +20,9 @@ import (
 	"hash"
 	"sync"
 
-	"github.com/nebojsa94/erigon-lib/chain"
-	libcommon "github.com/nebojsa94/erigon-lib/common"
-	"github.com/nebojsa94/erigon-lib/common/math"
+	"github.com/nebojsa94/erigon/erigon-lib/chain"
+	libcommon "github.com/nebojsa94/erigon/erigon-lib/common"
+	"github.com/nebojsa94/erigon/erigon-lib/common/math"
 	"github.com/ledgerwatch/log/v3"
 
 	"github.com/nebojsa94/erigon/core/vm/stack"

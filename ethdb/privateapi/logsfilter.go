@@ -5,10 +5,10 @@ import (
 	"io"
 	"sync"
 
-	libcommon "github.com/nebojsa94/erigon-lib/common"
-	"github.com/nebojsa94/erigon-lib/gointerfaces"
-	"github.com/nebojsa94/erigon-lib/gointerfaces/remote"
-	"github.com/nebojsa94/erigon-lib/gointerfaces/types"
+	libcommon "github.com/nebojsa94/erigon/erigon-lib/common"
+	"github.com/nebojsa94/erigon/erigon-lib/gointerfaces"
+	"github.com/nebojsa94/erigon/erigon-lib/gointerfaces/remote"
+	"github.com/nebojsa94/erigon/erigon-lib/gointerfaces/types"
 
 	"github.com/nebojsa94/erigon/turbo/shards"
 )

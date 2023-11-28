@@ -1,4 +1,4 @@
-module github.com/nebojsa94/erigon-lib
+module github.com/nebojsa94/erigon/erigon-lib
 
 go 1.20
 

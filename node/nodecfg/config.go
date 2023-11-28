@@ -25,8 +25,8 @@ import (
 	"sync"
 
 	"github.com/c2h5oh/datasize"
-	"github.com/nebojsa94/erigon-lib/common/datadir"
-	"github.com/nebojsa94/erigon-lib/kv"
+	"github.com/nebojsa94/erigon/erigon-lib/common/datadir"
+	"github.com/nebojsa94/erigon/erigon-lib/kv"
 	"github.com/nebojsa94/erigon/cmd/rpcdaemon/cli/httpcfg"
 	"github.com/nebojsa94/erigon/common"
 	"github.com/nebojsa94/erigon/common/paths"

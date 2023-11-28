@@ -3,7 +3,7 @@ package stagedsync
 import (
 	"context"
 
-	"github.com/nebojsa94/erigon-lib/kv"
+	"github.com/nebojsa94/erigon/erigon-lib/kv"
 	"github.com/nebojsa94/erigon/eth/ethconfig"
 	"github.com/nebojsa94/erigon/eth/stagedsync/stages"
 	"github.com/ledgerwatch/log/v3"

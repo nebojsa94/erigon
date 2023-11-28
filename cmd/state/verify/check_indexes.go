@@ -3,12 +3,12 @@ package verify
 import (
 	"context"
 	"fmt"
-	"github.com/nebojsa94/erigon-lib/kv/dbutils"
+	"github.com/nebojsa94/erigon/erigon-lib/kv/dbutils"
 	"time"
 
-	"github.com/nebojsa94/erigon-lib/kv/bitmapdb"
-	"github.com/nebojsa94/erigon-lib/kv/mdbx"
-	"github.com/nebojsa94/erigon-lib/kv/temporal/historyv2"
+	"github.com/nebojsa94/erigon/erigon-lib/kv/bitmapdb"
+	"github.com/nebojsa94/erigon/erigon-lib/kv/mdbx"
+	"github.com/nebojsa94/erigon/erigon-lib/kv/temporal/historyv2"
 	"github.com/nebojsa94/erigon/common"
 )
 

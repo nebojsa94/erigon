@@ -6,9 +6,9 @@ import (
 	"fmt"
 	"io"
 
-	libcommon "github.com/nebojsa94/erigon-lib/common"
-	"github.com/nebojsa94/erigon-lib/kv"
-	"github.com/nebojsa94/erigon-lib/types/ssz"
+	libcommon "github.com/nebojsa94/erigon/erigon-lib/common"
+	"github.com/nebojsa94/erigon/erigon-lib/kv"
+	"github.com/nebojsa94/erigon/erigon-lib/types/ssz"
 	"github.com/nebojsa94/erigon/cl/phase1/core/state/lru"
 	"github.com/nebojsa94/erigon/core/types"
 	"github.com/nebojsa94/erigon/turbo/services"

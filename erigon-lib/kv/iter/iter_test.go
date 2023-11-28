@@ -22,10 +22,10 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/nebojsa94/erigon-lib/kv"
-	"github.com/nebojsa94/erigon-lib/kv/iter"
-	"github.com/nebojsa94/erigon-lib/kv/memdb"
-	"github.com/nebojsa94/erigon-lib/kv/order"
+	"github.com/nebojsa94/erigon/erigon-lib/kv"
+	"github.com/nebojsa94/erigon/erigon-lib/kv/iter"
+	"github.com/nebojsa94/erigon/erigon-lib/kv/memdb"
+	"github.com/nebojsa94/erigon/erigon-lib/kv/order"
 	"github.com/stretchr/testify/require"
 )
 

@@ -5,11 +5,11 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/nebojsa94/erigon-lib/common/hexutil"
+	"github.com/nebojsa94/erigon/erigon-lib/common/hexutil"
 
-	"github.com/nebojsa94/erigon-lib/common"
-	"github.com/nebojsa94/erigon-lib/gointerfaces/txpool"
-	"github.com/nebojsa94/erigon-lib/kv/kvcache"
+	"github.com/nebojsa94/erigon/erigon-lib/common"
+	"github.com/nebojsa94/erigon/erigon-lib/gointerfaces/txpool"
+	"github.com/nebojsa94/erigon/erigon-lib/kv/kvcache"
 	"github.com/stretchr/testify/assert"
 
 	"github.com/nebojsa94/erigon/cmd/rpcdaemon/rpcdaemontest"

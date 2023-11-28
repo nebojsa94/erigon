@@ -22,8 +22,8 @@ import (
 	"testing"
 
 	"github.com/holiman/uint256"
-	libcommon "github.com/nebojsa94/erigon-lib/common"
-	"github.com/nebojsa94/erigon-lib/kv"
+	libcommon "github.com/nebojsa94/erigon/erigon-lib/common"
+	"github.com/nebojsa94/erigon/erigon-lib/kv"
 	"github.com/nebojsa94/erigon/core/rawdb"
 	"github.com/nebojsa94/erigon/core/types"
 	"github.com/nebojsa94/erigon/turbo/services"

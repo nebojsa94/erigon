@@ -16,7 +16,7 @@ package fork
 import (
 	"testing"
 
-	"github.com/nebojsa94/erigon-lib/common"
+	"github.com/nebojsa94/erigon/erigon-lib/common"
 	"github.com/nebojsa94/erigon/cl/clparams"
 	"github.com/nebojsa94/erigon/cl/utils"
 	"github.com/stretchr/testify/require"

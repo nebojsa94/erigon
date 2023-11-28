@@ -3,7 +3,7 @@ package state
 import (
 	"fmt"
 
-	"github.com/nebojsa94/erigon-lib/common/math"
+	"github.com/nebojsa94/erigon/erigon-lib/common/math"
 	"github.com/nebojsa94/erigon/cl/clparams"
 	"github.com/nebojsa94/erigon/cl/cltypes/solid"
 	"github.com/nebojsa94/erigon/cl/utils"

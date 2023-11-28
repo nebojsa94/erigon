@@ -8,19 +8,19 @@ import (
 	"time"
 
 	"github.com/holiman/uint256"
-	"github.com/nebojsa94/erigon-lib/common"
-	"github.com/nebojsa94/erigon-lib/txpool/txpoolcfg"
+	"github.com/nebojsa94/erigon/erigon-lib/common"
+	"github.com/nebojsa94/erigon/erigon-lib/txpool/txpoolcfg"
 
-	"github.com/nebojsa94/erigon-lib/gointerfaces/sentry"
-	"github.com/nebojsa94/erigon-lib/gointerfaces/txpool"
-	"github.com/nebojsa94/erigon-lib/kv/kvcache"
+	"github.com/nebojsa94/erigon/erigon-lib/gointerfaces/sentry"
+	"github.com/nebojsa94/erigon/erigon-lib/gointerfaces/txpool"
+	"github.com/nebojsa94/erigon/erigon-lib/kv/kvcache"
 	"github.com/nebojsa94/erigon/rpc/rpccfg"
 	"github.com/stretchr/testify/require"
 
 	"github.com/nebojsa94/erigon/cmd/rpcdaemon/rpcdaemontest"
 	"github.com/nebojsa94/erigon/common/u256"
 
-	txpool_proto "github.com/nebojsa94/erigon-lib/gointerfaces/txpool"
+	txpool_proto "github.com/nebojsa94/erigon/erigon-lib/gointerfaces/txpool"
 	"github.com/nebojsa94/erigon/core"
 	"github.com/nebojsa94/erigon/core/types"
 	"github.com/nebojsa94/erigon/eth/protocols/eth"

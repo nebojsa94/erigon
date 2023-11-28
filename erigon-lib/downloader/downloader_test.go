@@ -6,9 +6,9 @@ import (
 	"testing"
 
 	lg "github.com/anacrolix/log"
-	"github.com/nebojsa94/erigon-lib/common/datadir"
-	downloadercfg2 "github.com/nebojsa94/erigon-lib/downloader/downloadercfg"
-	"github.com/nebojsa94/erigon-lib/downloader/snaptype"
+	"github.com/nebojsa94/erigon/erigon-lib/common/datadir"
+	downloadercfg2 "github.com/nebojsa94/erigon/erigon-lib/downloader/downloadercfg"
+	"github.com/nebojsa94/erigon/erigon-lib/downloader/snaptype"
 	"github.com/ledgerwatch/log/v3"
 	"github.com/stretchr/testify/require"
 )

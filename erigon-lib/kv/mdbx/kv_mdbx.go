@@ -39,11 +39,11 @@ import (
 	"golang.org/x/exp/maps"
 	"golang.org/x/sync/semaphore"
 
-	"github.com/nebojsa94/erigon-lib/common/dbg"
-	"github.com/nebojsa94/erigon-lib/common/dir"
-	"github.com/nebojsa94/erigon-lib/kv"
-	"github.com/nebojsa94/erigon-lib/kv/iter"
-	"github.com/nebojsa94/erigon-lib/kv/order"
+	"github.com/nebojsa94/erigon/erigon-lib/common/dbg"
+	"github.com/nebojsa94/erigon/erigon-lib/common/dir"
+	"github.com/nebojsa94/erigon/erigon-lib/kv"
+	"github.com/nebojsa94/erigon/erigon-lib/kv/iter"
+	"github.com/nebojsa94/erigon/erigon-lib/kv/order"
 )
 
 const NonExistingDBI kv.DBI = 999_999_999

@@ -14,7 +14,7 @@ import (
 	"github.com/nebojsa94/erigon/p2p/enode"
 	"github.com/nebojsa94/erigon/params"
 
-	"github.com/nebojsa94/erigon-lib/chain/networkname"
+	"github.com/nebojsa94/erigon/erigon-lib/chain/networkname"
 	"github.com/nebojsa94/erigon/cmd/devnet/accounts"
 	"github.com/nebojsa94/erigon/cmd/devnet/requests"
 )

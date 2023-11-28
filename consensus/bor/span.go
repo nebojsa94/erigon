@@ -1,7 +1,7 @@
 package bor
 
 import (
-	libcommon "github.com/nebojsa94/erigon-lib/common"
+	libcommon "github.com/nebojsa94/erigon/erigon-lib/common"
 	"github.com/nebojsa94/erigon/consensus"
 	"github.com/nebojsa94/erigon/consensus/bor/heimdall/span"
 	"github.com/nebojsa94/erigon/consensus/bor/valset"

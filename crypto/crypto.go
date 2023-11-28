@@ -24,14 +24,14 @@ import (
 	"encoding/hex"
 	"errors"
 	"fmt"
-	"github.com/nebojsa94/erigon-lib/common/hexutil"
+	"github.com/nebojsa94/erigon/erigon-lib/common/hexutil"
 	"hash"
 	"io"
 	"math/big"
 	"os"
 
 	"github.com/holiman/uint256"
-	libcommon "github.com/nebojsa94/erigon-lib/common"
+	libcommon "github.com/nebojsa94/erigon/erigon-lib/common"
 	"golang.org/x/crypto/sha3"
 
 	"github.com/nebojsa94/erigon/crypto/cryptopool"

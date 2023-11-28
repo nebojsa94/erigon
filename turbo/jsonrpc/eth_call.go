@@ -6,19 +6,19 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/nebojsa94/erigon-lib/common/hexutil"
+	"github.com/nebojsa94/erigon/erigon-lib/common/hexutil"
 
 	"github.com/holiman/uint256"
-	"github.com/nebojsa94/erigon-lib/kv/membatchwithdb"
+	"github.com/nebojsa94/erigon/erigon-lib/kv/membatchwithdb"
 	"github.com/ledgerwatch/log/v3"
 	"google.golang.org/grpc"
 
-	libcommon "github.com/nebojsa94/erigon-lib/common"
-	"github.com/nebojsa94/erigon-lib/common/hexutility"
-	"github.com/nebojsa94/erigon-lib/gointerfaces"
-	txpool_proto "github.com/nebojsa94/erigon-lib/gointerfaces/txpool"
-	"github.com/nebojsa94/erigon-lib/kv"
-	types2 "github.com/nebojsa94/erigon-lib/types"
+	libcommon "github.com/nebojsa94/erigon/erigon-lib/common"
+	"github.com/nebojsa94/erigon/erigon-lib/common/hexutility"
+	"github.com/nebojsa94/erigon/erigon-lib/gointerfaces"
+	txpool_proto "github.com/nebojsa94/erigon/erigon-lib/gointerfaces/txpool"
+	"github.com/nebojsa94/erigon/erigon-lib/kv"
+	types2 "github.com/nebojsa94/erigon/erigon-lib/types"
 
 	"github.com/nebojsa94/erigon/core"
 	"github.com/nebojsa94/erigon/core/state"

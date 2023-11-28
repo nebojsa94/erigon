@@ -22,7 +22,7 @@ import (
 	"math/big"
 	"reflect"
 
-	common2 "github.com/nebojsa94/erigon-lib/common"
+	common2 "github.com/nebojsa94/erigon/erigon-lib/common"
 	"github.com/nebojsa94/erigon/common"
 	"github.com/nebojsa94/erigon/common/math"
 )

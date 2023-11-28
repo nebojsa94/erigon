@@ -8,7 +8,7 @@ import (
 
 	shuffling2 "github.com/nebojsa94/erigon/cl/phase1/core/state/shuffling"
 
-	libcommon "github.com/nebojsa94/erigon-lib/common"
+	libcommon "github.com/nebojsa94/erigon/erigon-lib/common"
 )
 
 type proposerDuties struct {

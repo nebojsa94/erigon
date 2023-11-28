@@ -8,7 +8,7 @@ import (
 	"os"
 	"time"
 
-	libcommon "github.com/nebojsa94/erigon-lib/common"
+	libcommon "github.com/nebojsa94/erigon/erigon-lib/common"
 )
 
 // Compares response of Erigon with OpenEthereum

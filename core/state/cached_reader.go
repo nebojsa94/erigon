@@ -3,7 +3,7 @@ package state
 import (
 	"bytes"
 
-	"github.com/nebojsa94/erigon-lib/common"
+	"github.com/nebojsa94/erigon/erigon-lib/common"
 
 	"github.com/nebojsa94/erigon/core/types/accounts"
 	"github.com/nebojsa94/erigon/turbo/shards"
