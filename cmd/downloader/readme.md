@@ -31,7 +31,7 @@ Use `--snap.keepblocks=true` to don't delete retired blocks from DB
 Any network/chain can start with snapshot sync:
 
 - node will download only snapshots registered in next
-  repo https://github.com/nebojsa94/erigon-snapshot
+  repo https://github.com/ledgerwatch/erigon-snapshot
 - node will move old blocks from DB to snapshots of 1K blocks size, then merge
   snapshots to bigger range, until
   snapshots of 500K blocks, then automatically start seeding new snapshot
@@ -50,7 +50,7 @@ erigon snapshots retire --datadir=<your_datadir>
 # Create .torrent files (you can think about them as "checksum")
 downloader torrent_create --datadir=<your_datadir>
 
-# output format is compatible with https://github.com/nebojsa94/erigon-snapshot
+# output format is compatible with https://github.com/ledgerwatch/erigon-snapshot
 downloader torrent_hashes --datadir=<your_datadir>
 
 # Start downloader (read all .torrent files, and download/seed data)
@@ -86,7 +86,7 @@ can be created 4 ways:
 Erigon does:
 
 - connect to Downloader
-- share list of hashes (see https://github.com/nebojsa94/erigon-snapshot )
+- share list of hashes (see https://github.com/ledgerwatch/erigon-snapshot )
 - wait for download of all snapshots
 - when .seg available - automatically create .idx files - secondary indices, for
   example to find block by hash
