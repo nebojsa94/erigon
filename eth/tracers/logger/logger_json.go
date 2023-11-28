@@ -22,11 +22,11 @@ import (
 	"math/big"
 
 	"github.com/holiman/uint256"
-	libcommon "github.com/ledgerwatch/erigon-lib/common"
+	libcommon "github.com/nebojsa94/erigon-lib/common"
 
-	"github.com/ledgerwatch/erigon/common"
-	"github.com/ledgerwatch/erigon/common/math"
-	"github.com/ledgerwatch/erigon/core/vm"
+	"github.com/nebojsa94/erigon/common"
+	"github.com/nebojsa94/erigon/common/math"
+	"github.com/nebojsa94/erigon/core/vm"
 )
 
 type JSONLogger struct {

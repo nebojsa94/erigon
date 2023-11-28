@@ -2,9 +2,9 @@
 package machine
 
 import (
-	"github.com/ledgerwatch/erigon/cl/abstract"
-	"github.com/ledgerwatch/erigon/cl/cltypes"
-	"github.com/ledgerwatch/erigon/cl/cltypes/solid"
+	"github.com/nebojsa94/erigon/cl/abstract"
+	"github.com/nebojsa94/erigon/cl/cltypes"
+	"github.com/nebojsa94/erigon/cl/cltypes/solid"
 )
 
 type Interface interface {

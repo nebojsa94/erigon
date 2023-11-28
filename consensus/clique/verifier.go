@@ -5,13 +5,13 @@ import (
 	"fmt"
 	"time"
 
-	libcommon "github.com/ledgerwatch/erigon-lib/common"
-	"github.com/ledgerwatch/erigon-lib/common/length"
+	libcommon "github.com/nebojsa94/erigon-lib/common"
+	"github.com/nebojsa94/erigon-lib/common/length"
 
-	"github.com/ledgerwatch/erigon/consensus"
-	"github.com/ledgerwatch/erigon/consensus/misc"
-	"github.com/ledgerwatch/erigon/core/types"
-	"github.com/ledgerwatch/erigon/params"
+	"github.com/nebojsa94/erigon/consensus"
+	"github.com/nebojsa94/erigon/consensus/misc"
+	"github.com/nebojsa94/erigon/core/types"
+	"github.com/nebojsa94/erigon/params"
 )
 
 // verifyHeader checks whether a header conforms to the consensus rules.The

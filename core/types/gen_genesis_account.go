@@ -7,10 +7,10 @@ import (
 	"errors"
 	"math/big"
 
-	libcommon "github.com/ledgerwatch/erigon-lib/common"
-	"github.com/ledgerwatch/erigon-lib/common/hexutility"
+	libcommon "github.com/nebojsa94/erigon-lib/common"
+	"github.com/nebojsa94/erigon-lib/common/hexutility"
 
-	"github.com/ledgerwatch/erigon/common/math"
+	"github.com/nebojsa94/erigon/common/math"
 )
 
 var _ = (*genesisAccountMarshaling)(nil)

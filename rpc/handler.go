@@ -27,7 +27,7 @@ import (
 	"time"
 
 	jsoniter "github.com/json-iterator/go"
-	"github.com/ledgerwatch/erigon/rpc/rpccfg"
+	"github.com/nebojsa94/erigon/rpc/rpccfg"
 	"github.com/ledgerwatch/log/v3"
 )
 

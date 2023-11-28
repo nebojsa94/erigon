@@ -1,9 +1,9 @@
 package statechange
 
 import (
-	"github.com/ledgerwatch/erigon/cl/abstract"
-	"github.com/ledgerwatch/erigon/cl/cltypes/solid"
-	"github.com/ledgerwatch/erigon/cl/utils"
+	"github.com/nebojsa94/erigon/cl/abstract"
+	"github.com/nebojsa94/erigon/cl/cltypes/solid"
+	"github.com/nebojsa94/erigon/cl/utils"
 )
 
 // ProcessEffectiveBalanceUpdates updates the effective balance of validators. Specs at: https://github.com/ethereum/consensus-specs/blob/dev/specs/phase0/beacon-chain.md#effective-balances-updates

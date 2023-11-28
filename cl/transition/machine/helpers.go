@@ -1,10 +1,10 @@
 package machine
 
 import (
-	"github.com/ledgerwatch/erigon-lib/common"
-	"github.com/ledgerwatch/erigon/cl/abstract"
-	"github.com/ledgerwatch/erigon/cl/cltypes"
-	"github.com/ledgerwatch/erigon/cl/phase1/core/state"
+	"github.com/nebojsa94/erigon-lib/common"
+	"github.com/nebojsa94/erigon/cl/abstract"
+	"github.com/nebojsa94/erigon/cl/cltypes"
+	"github.com/nebojsa94/erigon/cl/phase1/core/state"
 )
 
 func executionEnabled(s abstract.BeaconState, payload *cltypes.Eth1Block) bool {

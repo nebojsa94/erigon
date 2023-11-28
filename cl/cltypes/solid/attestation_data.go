@@ -5,11 +5,11 @@ import (
 	"encoding/binary"
 	"encoding/json"
 
-	libcommon "github.com/ledgerwatch/erigon-lib/common"
-	"github.com/ledgerwatch/erigon-lib/common/length"
-	"github.com/ledgerwatch/erigon-lib/types/clonable"
-	"github.com/ledgerwatch/erigon-lib/types/ssz"
-	"github.com/ledgerwatch/erigon/cl/merkle_tree"
+	libcommon "github.com/nebojsa94/erigon-lib/common"
+	"github.com/nebojsa94/erigon-lib/common/length"
+	"github.com/nebojsa94/erigon-lib/types/clonable"
+	"github.com/nebojsa94/erigon-lib/types/ssz"
+	"github.com/nebojsa94/erigon/cl/merkle_tree"
 )
 
 // slot: 8 bytes

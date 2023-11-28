@@ -6,9 +6,9 @@ import (
 	"net/http"
 	"sync"
 
-	shuffling2 "github.com/ledgerwatch/erigon/cl/phase1/core/state/shuffling"
+	shuffling2 "github.com/nebojsa94/erigon/cl/phase1/core/state/shuffling"
 
-	libcommon "github.com/ledgerwatch/erigon-lib/common"
+	libcommon "github.com/nebojsa94/erigon-lib/common"
 )
 
 type proposerDuties struct {

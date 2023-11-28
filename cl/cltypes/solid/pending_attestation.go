@@ -4,12 +4,12 @@ import (
 	"encoding/binary"
 	"encoding/json"
 
-	"github.com/ledgerwatch/erigon-lib/common"
-	"github.com/ledgerwatch/erigon-lib/common/hexutility"
+	"github.com/nebojsa94/erigon-lib/common"
+	"github.com/nebojsa94/erigon-lib/common/hexutility"
 
-	"github.com/ledgerwatch/erigon-lib/types/clonable"
-	"github.com/ledgerwatch/erigon-lib/types/ssz"
-	"github.com/ledgerwatch/erigon/cl/merkle_tree"
+	"github.com/nebojsa94/erigon-lib/types/clonable"
+	"github.com/nebojsa94/erigon-lib/types/ssz"
+	"github.com/nebojsa94/erigon/cl/merkle_tree"
 )
 
 const (

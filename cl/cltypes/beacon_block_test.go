@@ -5,10 +5,10 @@ import (
 	"testing"
 
 	"github.com/holiman/uint256"
-	libcommon "github.com/ledgerwatch/erigon-lib/common"
-	"github.com/ledgerwatch/erigon/cl/clparams"
-	"github.com/ledgerwatch/erigon/cl/cltypes/solid"
-	"github.com/ledgerwatch/erigon/core/types"
+	libcommon "github.com/nebojsa94/erigon-lib/common"
+	"github.com/nebojsa94/erigon/cl/clparams"
+	"github.com/nebojsa94/erigon/cl/cltypes/solid"
+	"github.com/nebojsa94/erigon/core/types"
 	"github.com/stretchr/testify/assert"
 )
 

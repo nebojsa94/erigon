@@ -3,8 +3,8 @@ package snapshot_format
 import (
 	"io"
 
-	libcommon "github.com/ledgerwatch/erigon-lib/common"
-	"github.com/ledgerwatch/erigon/cl/cltypes"
+	libcommon "github.com/nebojsa94/erigon-lib/common"
+	"github.com/nebojsa94/erigon/cl/cltypes"
 )
 
 type MockBlockReader struct {

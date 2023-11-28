@@ -23,9 +23,9 @@ import (
 	"reflect"
 	"strings"
 
-	libcommon "github.com/ledgerwatch/erigon-lib/common"
+	libcommon "github.com/nebojsa94/erigon-lib/common"
 
-	"github.com/ledgerwatch/erigon/crypto"
+	"github.com/nebojsa94/erigon/crypto"
 )
 
 type Error struct {

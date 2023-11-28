@@ -5,10 +5,10 @@ import (
 	_ "embed"
 	"testing"
 
-	libcommon "github.com/ledgerwatch/erigon-lib/common"
+	libcommon "github.com/nebojsa94/erigon-lib/common"
 
-	"github.com/ledgerwatch/erigon/cl/clparams"
-	"github.com/ledgerwatch/erigon/cl/utils"
+	"github.com/nebojsa94/erigon/cl/clparams"
+	"github.com/nebojsa94/erigon/cl/utils"
 	"github.com/stretchr/testify/require"
 )
 

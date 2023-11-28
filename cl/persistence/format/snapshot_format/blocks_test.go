@@ -5,10 +5,10 @@ import (
 	_ "embed"
 	"testing"
 
-	"github.com/ledgerwatch/erigon/cl/clparams"
-	"github.com/ledgerwatch/erigon/cl/cltypes"
-	"github.com/ledgerwatch/erigon/cl/persistence/format/snapshot_format"
-	"github.com/ledgerwatch/erigon/cl/utils"
+	"github.com/nebojsa94/erigon/cl/clparams"
+	"github.com/nebojsa94/erigon/cl/cltypes"
+	"github.com/nebojsa94/erigon/cl/persistence/format/snapshot_format"
+	"github.com/nebojsa94/erigon/cl/utils"
 	"github.com/stretchr/testify/require"
 )
 

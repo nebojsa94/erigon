@@ -21,10 +21,10 @@ import (
 	"errors"
 	"time"
 
-	libcommon "github.com/ledgerwatch/erigon-lib/common"
+	libcommon "github.com/nebojsa94/erigon-lib/common"
 	"github.com/ledgerwatch/log/v3"
 
-	"github.com/ledgerwatch/erigon/core/types"
+	"github.com/nebojsa94/erigon/core/types"
 )
 
 // WaitMined waits for tx to be mined on the blockchain.

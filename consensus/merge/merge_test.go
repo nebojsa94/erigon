@@ -4,11 +4,11 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/ledgerwatch/erigon-lib/chain"
-	libcommon "github.com/ledgerwatch/erigon-lib/common"
+	"github.com/nebojsa94/erigon-lib/chain"
+	libcommon "github.com/nebojsa94/erigon-lib/common"
 
-	"github.com/ledgerwatch/erigon/consensus"
-	"github.com/ledgerwatch/erigon/core/types"
+	"github.com/nebojsa94/erigon/consensus"
+	"github.com/nebojsa94/erigon/core/types"
 )
 
 type readerMock struct{}

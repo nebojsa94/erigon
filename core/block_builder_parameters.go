@@ -1,9 +1,9 @@
 package core
 
 import (
-	libcommon "github.com/ledgerwatch/erigon-lib/common"
+	libcommon "github.com/nebojsa94/erigon-lib/common"
 
-	"github.com/ledgerwatch/erigon/core/types"
+	"github.com/nebojsa94/erigon/core/types"
 )
 
 // Parameters for PoS block building

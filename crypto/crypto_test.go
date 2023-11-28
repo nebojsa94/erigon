@@ -20,7 +20,7 @@ import (
 	"bytes"
 	"crypto/ecdsa"
 	"encoding/hex"
-	"github.com/ledgerwatch/erigon-lib/common/hexutil"
+	"github.com/nebojsa94/erigon-lib/common/hexutil"
 	"os"
 	"reflect"
 	"testing"
@@ -28,10 +28,10 @@ import (
 	"golang.org/x/crypto/sha3"
 
 	"github.com/holiman/uint256"
-	libcommon "github.com/ledgerwatch/erigon-lib/common"
+	libcommon "github.com/nebojsa94/erigon-lib/common"
 
-	"github.com/ledgerwatch/erigon/common"
-	"github.com/ledgerwatch/erigon/common/u256"
+	"github.com/nebojsa94/erigon/common"
+	"github.com/nebojsa94/erigon/common/u256"
 )
 
 var testAddrHex = "970e8128ab834e8eac17ab8e3812f010678cf791"

@@ -12,12 +12,12 @@ import (
 	"strings"
 	"time"
 
-	libcommon "github.com/ledgerwatch/erigon-lib/common"
-	"github.com/ledgerwatch/erigon-lib/common/length"
-	"github.com/ledgerwatch/erigon-lib/kv"
-	"github.com/ledgerwatch/erigon-lib/kv/mdbx"
+	libcommon "github.com/nebojsa94/erigon-lib/common"
+	"github.com/nebojsa94/erigon-lib/common/length"
+	"github.com/nebojsa94/erigon-lib/kv"
+	"github.com/nebojsa94/erigon-lib/kv/mdbx"
 
-	"github.com/ledgerwatch/erigon/common"
+	"github.com/nebojsa94/erigon/common"
 )
 
 func IndexStats(chaindata string, indexBucket string, statsFile string) error {

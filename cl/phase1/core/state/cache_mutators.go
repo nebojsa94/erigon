@@ -3,10 +3,10 @@ package state
 import (
 	"fmt"
 
-	"github.com/ledgerwatch/erigon-lib/common/math"
-	"github.com/ledgerwatch/erigon/cl/clparams"
-	"github.com/ledgerwatch/erigon/cl/cltypes/solid"
-	"github.com/ledgerwatch/erigon/cl/utils"
+	"github.com/nebojsa94/erigon-lib/common/math"
+	"github.com/nebojsa94/erigon/cl/clparams"
+	"github.com/nebojsa94/erigon/cl/cltypes/solid"
+	"github.com/nebojsa94/erigon/cl/utils"
 )
 
 func (b *CachingBeaconState) getSlashingProposerReward(whistleBlowerReward uint64) uint64 {

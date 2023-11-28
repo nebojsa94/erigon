@@ -18,24 +18,24 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/ledgerwatch/erigon/cl/beacon/beacon_router_configuration"
-	"github.com/ledgerwatch/erigon/cl/cltypes"
-	"github.com/ledgerwatch/erigon/cl/fork"
-	freezer2 "github.com/ledgerwatch/erigon/cl/freezer"
-	"github.com/ledgerwatch/erigon/cl/phase1/core"
-	"github.com/ledgerwatch/erigon/cl/phase1/core/state"
-	execution_client2 "github.com/ledgerwatch/erigon/cl/phase1/execution_client"
-	"github.com/ledgerwatch/erigon/cl/sentinel"
-	"github.com/ledgerwatch/erigon/cl/sentinel/service"
+	"github.com/nebojsa94/erigon/cl/beacon/beacon_router_configuration"
+	"github.com/nebojsa94/erigon/cl/cltypes"
+	"github.com/nebojsa94/erigon/cl/fork"
+	freezer2 "github.com/nebojsa94/erigon/cl/freezer"
+	"github.com/nebojsa94/erigon/cl/phase1/core"
+	"github.com/nebojsa94/erigon/cl/phase1/core/state"
+	execution_client2 "github.com/nebojsa94/erigon/cl/phase1/execution_client"
+	"github.com/nebojsa94/erigon/cl/sentinel"
+	"github.com/nebojsa94/erigon/cl/sentinel/service"
 
 	"github.com/ledgerwatch/log/v3"
 	"github.com/urfave/cli/v2"
 
-	"github.com/ledgerwatch/erigon/cmd/caplin/caplin1"
-	lcCli "github.com/ledgerwatch/erigon/cmd/sentinel/cli"
-	"github.com/ledgerwatch/erigon/cmd/sentinel/cli/flags"
-	"github.com/ledgerwatch/erigon/turbo/app"
-	"github.com/ledgerwatch/erigon/turbo/debug"
+	"github.com/nebojsa94/erigon/cmd/caplin/caplin1"
+	lcCli "github.com/nebojsa94/erigon/cmd/sentinel/cli"
+	"github.com/nebojsa94/erigon/cmd/sentinel/cli/flags"
+	"github.com/nebojsa94/erigon/turbo/app"
+	"github.com/nebojsa94/erigon/turbo/debug"
 )
 
 func main() {

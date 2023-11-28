@@ -7,10 +7,10 @@ import (
 	"reflect"
 	"strings"
 
-	libcommon "github.com/ledgerwatch/erigon-lib/common"
-	"github.com/ledgerwatch/erigon-lib/common/length"
-	"github.com/ledgerwatch/erigon/accounts/abi"
-	"github.com/ledgerwatch/erigon/core/types"
+	libcommon "github.com/nebojsa94/erigon-lib/common"
+	"github.com/nebojsa94/erigon-lib/common/length"
+	"github.com/nebojsa94/erigon/accounts/abi"
+	"github.com/nebojsa94/erigon/core/types"
 )
 
 // UnpackLog unpacks log

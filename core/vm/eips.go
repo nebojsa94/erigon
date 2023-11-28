@@ -22,10 +22,10 @@ import (
 
 	"github.com/holiman/uint256"
 
-	libcommon "github.com/ledgerwatch/erigon-lib/common"
+	libcommon "github.com/nebojsa94/erigon-lib/common"
 
-	"github.com/ledgerwatch/erigon/consensus/misc"
-	"github.com/ledgerwatch/erigon/params"
+	"github.com/nebojsa94/erigon/consensus/misc"
+	"github.com/nebojsa94/erigon/params"
 )
 
 var activators = map[int]func(*JumpTable){

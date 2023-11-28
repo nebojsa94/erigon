@@ -3,7 +3,7 @@ package builder
 import (
 	"sync"
 
-	"github.com/ledgerwatch/erigon/core/types"
+	"github.com/nebojsa94/erigon/core/types"
 )
 
 type LatestBlockBuiltStore struct {

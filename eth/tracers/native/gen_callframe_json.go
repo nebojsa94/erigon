@@ -4,13 +4,13 @@ package native
 
 import (
 	"encoding/json"
-	"github.com/ledgerwatch/erigon-lib/common/hexutil"
+	"github.com/nebojsa94/erigon-lib/common/hexutil"
 	"math/big"
 
-	libcommon "github.com/ledgerwatch/erigon-lib/common"
-	"github.com/ledgerwatch/erigon-lib/common/hexutility"
+	libcommon "github.com/nebojsa94/erigon-lib/common"
+	"github.com/nebojsa94/erigon-lib/common/hexutility"
 
-	"github.com/ledgerwatch/erigon/core/vm"
+	"github.com/nebojsa94/erigon/core/vm"
 )
 
 var _ = (*callFrameMarshaling)(nil)

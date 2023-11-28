@@ -1,9 +1,9 @@
 package raw
 
 import (
-	"github.com/ledgerwatch/erigon/cl/clparams"
-	"github.com/ledgerwatch/erigon/cl/cltypes"
-	"github.com/ledgerwatch/erigon/cl/cltypes/solid"
+	"github.com/nebojsa94/erigon/cl/clparams"
+	"github.com/nebojsa94/erigon/cl/cltypes"
+	"github.com/nebojsa94/erigon/cl/cltypes/solid"
 )
 
 func (b *BeaconState) CopyInto(dst *BeaconState) error {

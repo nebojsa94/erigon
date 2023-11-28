@@ -4,9 +4,9 @@ import (
 	"bytes"
 
 	"github.com/holiman/uint256"
-	"github.com/ledgerwatch/erigon-lib/common"
+	"github.com/nebojsa94/erigon-lib/common"
 
-	"github.com/ledgerwatch/erigon/core/vm"
+	"github.com/nebojsa94/erigon/core/vm"
 )
 
 type TouchTracer struct {

@@ -19,8 +19,8 @@ package vm
 import (
 	"fmt"
 
-	"github.com/ledgerwatch/erigon/core/vm/stack"
-	"github.com/ledgerwatch/erigon/params"
+	"github.com/nebojsa94/erigon/core/vm/stack"
+	"github.com/nebojsa94/erigon/params"
 )
 
 type (

@@ -5,15 +5,15 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/ledgerwatch/erigon/cl/cltypes/solid"
-	"github.com/ledgerwatch/erigon/cl/phase1/cache"
-	"github.com/ledgerwatch/erigon/cl/phase1/core/state/shuffling"
+	"github.com/nebojsa94/erigon/cl/cltypes/solid"
+	"github.com/nebojsa94/erigon/cl/phase1/cache"
+	"github.com/nebojsa94/erigon/cl/phase1/core/state/shuffling"
 
 	"github.com/Giulio2002/bls"
-	libcommon "github.com/ledgerwatch/erigon-lib/common"
-	"github.com/ledgerwatch/erigon/cl/clparams"
-	"github.com/ledgerwatch/erigon/cl/cltypes"
-	"github.com/ledgerwatch/erigon/cl/utils"
+	libcommon "github.com/nebojsa94/erigon-lib/common"
+	"github.com/nebojsa94/erigon/cl/clparams"
+	"github.com/nebojsa94/erigon/cl/cltypes"
+	"github.com/nebojsa94/erigon/cl/utils"
 )
 
 // these are view functions for the beacon state cache

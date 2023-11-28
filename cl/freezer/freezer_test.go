@@ -7,7 +7,7 @@ import (
 	"sync/atomic"
 	"testing"
 
-	"github.com/ledgerwatch/erigon/cl/freezer"
+	"github.com/nebojsa94/erigon/cl/freezer"
 	"github.com/stretchr/testify/assert"
 )
 

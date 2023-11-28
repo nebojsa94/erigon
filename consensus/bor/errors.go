@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/ledgerwatch/erigon/consensus/bor/clerk"
+	"github.com/nebojsa94/erigon/consensus/bor/clerk"
 )
 
 type MaxCheckpointLengthExceededError struct {

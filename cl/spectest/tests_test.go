@@ -4,11 +4,11 @@ import (
 	"os"
 	"testing"
 
-	"github.com/ledgerwatch/erigon/spectest"
+	"github.com/nebojsa94/erigon/spectest"
 
-	"github.com/ledgerwatch/erigon/cl/transition"
+	"github.com/nebojsa94/erigon/cl/transition"
 
-	"github.com/ledgerwatch/erigon/cl/spectest/consensus_tests"
+	"github.com/nebojsa94/erigon/cl/spectest/consensus_tests"
 )
 
 func Test(t *testing.T) {

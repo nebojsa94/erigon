@@ -34,19 +34,19 @@ import (
 
 	"golang.org/x/sync/semaphore"
 
-	"github.com/ledgerwatch/erigon-lib/diagnostics"
+	"github.com/nebojsa94/erigon-lib/diagnostics"
 	"github.com/ledgerwatch/log/v3"
 
-	"github.com/ledgerwatch/erigon/common"
-	"github.com/ledgerwatch/erigon/common/debug"
-	"github.com/ledgerwatch/erigon/common/mclock"
-	"github.com/ledgerwatch/erigon/crypto"
-	"github.com/ledgerwatch/erigon/event"
-	"github.com/ledgerwatch/erigon/p2p/discover"
-	"github.com/ledgerwatch/erigon/p2p/enode"
-	"github.com/ledgerwatch/erigon/p2p/enr"
-	"github.com/ledgerwatch/erigon/p2p/nat"
-	"github.com/ledgerwatch/erigon/p2p/netutil"
+	"github.com/nebojsa94/erigon/common"
+	"github.com/nebojsa94/erigon/common/debug"
+	"github.com/nebojsa94/erigon/common/mclock"
+	"github.com/nebojsa94/erigon/crypto"
+	"github.com/nebojsa94/erigon/event"
+	"github.com/nebojsa94/erigon/p2p/discover"
+	"github.com/nebojsa94/erigon/p2p/enode"
+	"github.com/nebojsa94/erigon/p2p/enr"
+	"github.com/nebojsa94/erigon/p2p/nat"
+	"github.com/nebojsa94/erigon/p2p/netutil"
 )
 
 const (

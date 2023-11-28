@@ -26,9 +26,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ledgerwatch/erigon/crypto"
-	"github.com/ledgerwatch/erigon/p2p/discover/v4wire"
-	"github.com/ledgerwatch/erigon/p2p/enode"
+	"github.com/nebojsa94/erigon/crypto"
+	"github.com/nebojsa94/erigon/p2p/discover/v4wire"
+	"github.com/nebojsa94/erigon/p2p/enode"
 	"github.com/ledgerwatch/log/v3"
 )
 

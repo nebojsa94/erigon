@@ -3,12 +3,12 @@ package eth2
 import (
 	"encoding/binary"
 
-	libcommon "github.com/ledgerwatch/erigon-lib/common"
+	libcommon "github.com/nebojsa94/erigon-lib/common"
 
-	"github.com/ledgerwatch/erigon/cl/abstract"
-	"github.com/ledgerwatch/erigon/cl/cltypes"
-	"github.com/ledgerwatch/erigon/cl/utils"
-	"github.com/ledgerwatch/erigon/core/types"
+	"github.com/nebojsa94/erigon/cl/abstract"
+	"github.com/nebojsa94/erigon/cl/cltypes"
+	"github.com/nebojsa94/erigon/cl/utils"
+	"github.com/nebojsa94/erigon/core/types"
 )
 
 const VERSIONED_HASH_VERSION_KZG byte = byte(1)

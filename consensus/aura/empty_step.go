@@ -7,10 +7,10 @@ import (
 
 	"github.com/ledgerwatch/secp256k1"
 
-	libcommon "github.com/ledgerwatch/erigon-lib/common"
+	libcommon "github.com/nebojsa94/erigon-lib/common"
 
-	"github.com/ledgerwatch/erigon/crypto"
-	"github.com/ledgerwatch/erigon/rlp"
+	"github.com/nebojsa94/erigon/crypto"
+	"github.com/nebojsa94/erigon/rlp"
 )
 
 // A message broadcast by authorities when it's their turn to seal a block but there are no

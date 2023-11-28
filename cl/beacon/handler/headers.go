@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"net/http"
 
-	libcommon "github.com/ledgerwatch/erigon-lib/common"
-	"github.com/ledgerwatch/erigon/cl/persistence/beacon_indicies"
+	libcommon "github.com/nebojsa94/erigon-lib/common"
+	"github.com/nebojsa94/erigon/cl/persistence/beacon_indicies"
 )
 
 func (a *ApiHandler) getHeaders(r *http.Request) *beaconResponse {

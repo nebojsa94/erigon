@@ -16,16 +16,16 @@ package main
 import (
 	"context"
 	"fmt"
-	"github.com/ledgerwatch/erigon/cl/sentinel"
-	"github.com/ledgerwatch/erigon/cl/sentinel/service"
+	"github.com/nebojsa94/erigon/cl/sentinel"
+	"github.com/nebojsa94/erigon/cl/sentinel/service"
 	"os"
 
 	"github.com/ledgerwatch/log/v3"
 	"github.com/urfave/cli/v2"
 
-	lcCli "github.com/ledgerwatch/erigon/cmd/sentinel/cli"
-	"github.com/ledgerwatch/erigon/cmd/sentinel/cli/flags"
-	sentinelapp "github.com/ledgerwatch/erigon/turbo/app"
+	lcCli "github.com/nebojsa94/erigon/cmd/sentinel/cli"
+	"github.com/nebojsa94/erigon/cmd/sentinel/cli/flags"
+	sentinelapp "github.com/nebojsa94/erigon/turbo/app"
 )
 
 func main() {

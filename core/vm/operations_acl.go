@@ -20,11 +20,11 @@ import (
 	"errors"
 
 	"github.com/holiman/uint256"
-	libcommon "github.com/ledgerwatch/erigon-lib/common"
-	"github.com/ledgerwatch/erigon-lib/common/math"
+	libcommon "github.com/nebojsa94/erigon-lib/common"
+	"github.com/nebojsa94/erigon-lib/common/math"
 
-	"github.com/ledgerwatch/erigon/core/vm/stack"
-	"github.com/ledgerwatch/erigon/params"
+	"github.com/nebojsa94/erigon/core/vm/stack"
+	"github.com/nebojsa94/erigon/params"
 )
 
 func makeGasSStoreFunc(clearingRefund uint64) gasFunc {

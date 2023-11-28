@@ -22,8 +22,8 @@ import (
 	"net"
 	"testing"
 
-	"github.com/ledgerwatch/erigon/crypto"
-	"github.com/ledgerwatch/erigon/p2p/enr"
+	"github.com/nebojsa94/erigon/crypto"
+	"github.com/nebojsa94/erigon/p2p/enr"
 	"github.com/ledgerwatch/log/v3"
 	"github.com/stretchr/testify/assert"
 )

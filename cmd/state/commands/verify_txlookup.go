@@ -1,8 +1,8 @@
 package commands
 
 import (
-	"github.com/ledgerwatch/erigon/cmd/state/verify"
-	"github.com/ledgerwatch/erigon/turbo/debug"
+	"github.com/nebojsa94/erigon/cmd/state/verify"
+	"github.com/nebojsa94/erigon/turbo/debug"
 	"github.com/spf13/cobra"
 )
 

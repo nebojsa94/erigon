@@ -22,8 +22,8 @@ import (
 
 	"github.com/urfave/cli/v2"
 
-	"github.com/ledgerwatch/erigon/core/vm"
-	"github.com/ledgerwatch/erigon/tests"
+	"github.com/nebojsa94/erigon/core/vm"
+	"github.com/nebojsa94/erigon/tests"
 )
 
 var (

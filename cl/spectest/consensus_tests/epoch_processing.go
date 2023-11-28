@@ -1,14 +1,14 @@
 package consensus_tests
 
 import (
-	"github.com/ledgerwatch/erigon/spectest"
+	"github.com/nebojsa94/erigon/spectest"
 	"io/fs"
 	"os"
 	"testing"
 
-	"github.com/ledgerwatch/erigon/cl/abstract"
-	"github.com/ledgerwatch/erigon/cl/phase1/core/state"
-	"github.com/ledgerwatch/erigon/cl/transition/impl/eth2/statechange"
+	"github.com/nebojsa94/erigon/cl/abstract"
+	"github.com/nebojsa94/erigon/cl/phase1/core/state"
+	"github.com/nebojsa94/erigon/cl/transition/impl/eth2/statechange"
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"

@@ -6,9 +6,9 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	libcommon "github.com/ledgerwatch/erigon-lib/common"
+	libcommon "github.com/nebojsa94/erigon-lib/common"
 
-	"github.com/ledgerwatch/erigon/params"
+	"github.com/nebojsa94/erigon/params"
 )
 
 func TestGnosisBlockRewardContractTransitions(t *testing.T) {

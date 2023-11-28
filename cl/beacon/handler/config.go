@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"sort"
 
-	libcommon "github.com/ledgerwatch/erigon-lib/common"
-	"github.com/ledgerwatch/erigon/cl/cltypes"
+	libcommon "github.com/nebojsa94/erigon-lib/common"
+	"github.com/nebojsa94/erigon/cl/cltypes"
 )
 
 func (a *ApiHandler) getSpec(r *http.Request) *beaconResponse {

@@ -6,12 +6,12 @@ import (
 	"fmt"
 	"path/filepath"
 
-	"github.com/ledgerwatch/erigon-lib/common"
-	"github.com/ledgerwatch/erigon/cmd/observer/database"
-	"github.com/ledgerwatch/erigon/cmd/observer/observer"
-	"github.com/ledgerwatch/erigon/cmd/observer/reports"
-	"github.com/ledgerwatch/erigon/cmd/utils"
-	"github.com/ledgerwatch/erigon/params"
+	"github.com/nebojsa94/erigon-lib/common"
+	"github.com/nebojsa94/erigon/cmd/observer/database"
+	"github.com/nebojsa94/erigon/cmd/observer/observer"
+	"github.com/nebojsa94/erigon/cmd/observer/reports"
+	"github.com/nebojsa94/erigon/cmd/utils"
+	"github.com/nebojsa94/erigon/params"
 	"github.com/ledgerwatch/log/v3"
 )
 

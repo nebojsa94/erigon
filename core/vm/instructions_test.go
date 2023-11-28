@@ -27,16 +27,16 @@ import (
 
 	"github.com/holiman/uint256"
 
-	libcommon "github.com/ledgerwatch/erigon-lib/common"
-	"github.com/ledgerwatch/erigon-lib/common/math"
+	libcommon "github.com/nebojsa94/erigon-lib/common"
+	"github.com/nebojsa94/erigon-lib/common/math"
 
-	"github.com/ledgerwatch/erigon/common"
-	"github.com/ledgerwatch/erigon/common/u256"
-	"github.com/ledgerwatch/erigon/core/state"
-	"github.com/ledgerwatch/erigon/core/vm/evmtypes"
-	"github.com/ledgerwatch/erigon/core/vm/stack"
-	"github.com/ledgerwatch/erigon/crypto"
-	"github.com/ledgerwatch/erigon/params"
+	"github.com/nebojsa94/erigon/common"
+	"github.com/nebojsa94/erigon/common/u256"
+	"github.com/nebojsa94/erigon/core/state"
+	"github.com/nebojsa94/erigon/core/vm/evmtypes"
+	"github.com/nebojsa94/erigon/core/vm/stack"
+	"github.com/nebojsa94/erigon/crypto"
+	"github.com/nebojsa94/erigon/params"
 )
 
 const opTestArg = "ABCDEF090807060504030201ffffffffffffffffffffffffffffffffffffffff"

@@ -17,9 +17,9 @@
 package runtime
 
 import (
-	"github.com/ledgerwatch/erigon/core"
-	"github.com/ledgerwatch/erigon/core/vm"
-	"github.com/ledgerwatch/erigon/core/vm/evmtypes"
+	"github.com/nebojsa94/erigon/core"
+	"github.com/nebojsa94/erigon/core/vm"
+	"github.com/nebojsa94/erigon/core/vm/evmtypes"
 )
 
 func NewEnv(cfg *Config) *vm.EVM {

@@ -11,12 +11,12 @@ import (
 	"strings"
 	"time"
 
-	libcommon "github.com/ledgerwatch/erigon-lib/common"
+	libcommon "github.com/nebojsa94/erigon-lib/common"
 	"github.com/ledgerwatch/log/v3"
 	"github.com/valyala/fastjson"
 
-	"github.com/ledgerwatch/erigon/core/state"
-	"github.com/ledgerwatch/erigon/crypto"
+	"github.com/nebojsa94/erigon/core/state"
+	"github.com/nebojsa94/erigon/crypto"
 )
 
 func compareBlocks(b, bg *EthBlockByNumber) bool {

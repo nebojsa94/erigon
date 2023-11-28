@@ -7,11 +7,11 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/ledgerwatch/erigon-lib/direct"
+	"github.com/nebojsa94/erigon-lib/direct"
 
-	"github.com/ledgerwatch/erigon/crypto"
-	"github.com/ledgerwatch/erigon/p2p/enode"
-	"github.com/ledgerwatch/erigon/params"
+	"github.com/nebojsa94/erigon/crypto"
+	"github.com/nebojsa94/erigon/p2p/enode"
+	"github.com/nebojsa94/erigon/params"
 )
 
 func TestHandshake(t *testing.T) {

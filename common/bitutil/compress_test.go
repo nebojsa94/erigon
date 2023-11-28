@@ -18,7 +18,7 @@ package bitutil
 
 import (
 	"bytes"
-	"github.com/ledgerwatch/erigon-lib/common/hexutil"
+	"github.com/nebojsa94/erigon-lib/common/hexutil"
 	"math/rand"
 	"testing"
 

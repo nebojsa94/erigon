@@ -5,8 +5,8 @@ import (
 	"net"
 	"net/http"
 
-	"github.com/ledgerwatch/erigon/cl/beacon/beacon_router_configuration"
-	"github.com/ledgerwatch/erigon/cl/beacon/handler"
+	"github.com/nebojsa94/erigon/cl/beacon/beacon_router_configuration"
+	"github.com/nebojsa94/erigon/cl/beacon/handler"
 	"github.com/ledgerwatch/log/v3"
 )
 

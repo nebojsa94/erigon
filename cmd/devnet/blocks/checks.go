@@ -4,9 +4,9 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/ledgerwatch/erigon/cmd/devnet/devnet"
-	"github.com/ledgerwatch/erigon/cmd/devnet/requests"
-	"github.com/ledgerwatch/erigon/turbo/jsonrpc"
+	"github.com/nebojsa94/erigon/cmd/devnet/devnet"
+	"github.com/nebojsa94/erigon/cmd/devnet/requests"
+	"github.com/nebojsa94/erigon/turbo/jsonrpc"
 )
 
 var CompletionChecker = BlockHandlerFunc(

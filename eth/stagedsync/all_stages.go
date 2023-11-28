@@ -5,9 +5,9 @@ import (
 
 	"github.com/huandu/xstrings"
 
-	"github.com/ledgerwatch/erigon-lib/kv"
-	"github.com/ledgerwatch/erigon-lib/metrics"
-	"github.com/ledgerwatch/erigon/eth/stagedsync/stages"
+	"github.com/nebojsa94/erigon-lib/kv"
+	"github.com/nebojsa94/erigon-lib/metrics"
+	"github.com/nebojsa94/erigon/eth/stagedsync/stages"
 )
 
 var syncMetrics = map[stages.SyncStage]metrics.Gauge{}

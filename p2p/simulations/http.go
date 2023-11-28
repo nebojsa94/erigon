@@ -28,11 +28,11 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/ledgerwatch/erigon/event"
-	"github.com/ledgerwatch/erigon/p2p"
-	"github.com/ledgerwatch/erigon/p2p/enode"
-	"github.com/ledgerwatch/erigon/p2p/simulations/adapters"
-	"github.com/ledgerwatch/erigon/rpc"
+	"github.com/nebojsa94/erigon/event"
+	"github.com/nebojsa94/erigon/p2p"
+	"github.com/nebojsa94/erigon/p2p/enode"
+	"github.com/nebojsa94/erigon/p2p/simulations/adapters"
+	"github.com/nebojsa94/erigon/rpc"
 
 	"github.com/gorilla/websocket"
 	"github.com/julienschmidt/httprouter"

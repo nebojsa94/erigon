@@ -2,8 +2,8 @@ package consensus_tests
 
 import (
 	"fmt"
-	"github.com/ledgerwatch/erigon/cl/transition/machine"
-	"github.com/ledgerwatch/erigon/spectest"
+	"github.com/nebojsa94/erigon/cl/transition/machine"
+	"github.com/nebojsa94/erigon/spectest"
 	"io/fs"
 	"testing"
 

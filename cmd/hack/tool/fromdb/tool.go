@@ -3,11 +3,11 @@ package fromdb
 import (
 	"context"
 
-	"github.com/ledgerwatch/erigon-lib/chain"
-	"github.com/ledgerwatch/erigon-lib/kv"
-	"github.com/ledgerwatch/erigon-lib/kv/kvcfg"
-	"github.com/ledgerwatch/erigon/cmd/hack/tool"
-	"github.com/ledgerwatch/erigon/ethdb/prune"
+	"github.com/nebojsa94/erigon-lib/chain"
+	"github.com/nebojsa94/erigon-lib/kv"
+	"github.com/nebojsa94/erigon-lib/kv/kvcfg"
+	"github.com/nebojsa94/erigon/cmd/hack/tool"
+	"github.com/nebojsa94/erigon/ethdb/prune"
 )
 
 func ChainConfig(db kv.RoDB) (cc *chain.Config) {

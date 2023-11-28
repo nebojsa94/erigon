@@ -1,12 +1,12 @@
 package forkchoice
 
 import (
-	"github.com/ledgerwatch/erigon-lib/common"
-	libcommon "github.com/ledgerwatch/erigon-lib/common"
-	"github.com/ledgerwatch/erigon/cl/cltypes"
-	"github.com/ledgerwatch/erigon/cl/cltypes/solid"
-	state2 "github.com/ledgerwatch/erigon/cl/phase1/core/state"
-	"github.com/ledgerwatch/erigon/cl/phase1/execution_client"
+	"github.com/nebojsa94/erigon-lib/common"
+	libcommon "github.com/nebojsa94/erigon-lib/common"
+	"github.com/nebojsa94/erigon/cl/cltypes"
+	"github.com/nebojsa94/erigon/cl/cltypes/solid"
+	state2 "github.com/nebojsa94/erigon/cl/phase1/core/state"
+	"github.com/nebojsa94/erigon/cl/phase1/execution_client"
 )
 
 type ForkChoiceStorage interface {

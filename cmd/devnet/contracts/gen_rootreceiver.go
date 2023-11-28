@@ -9,12 +9,12 @@ import (
 	"reflect"
 	"strings"
 
-	ethereum "github.com/ledgerwatch/erigon"
-	libcommon "github.com/ledgerwatch/erigon-lib/common"
-	"github.com/ledgerwatch/erigon/accounts/abi"
-	"github.com/ledgerwatch/erigon/accounts/abi/bind"
-	"github.com/ledgerwatch/erigon/core/types"
-	"github.com/ledgerwatch/erigon/event"
+	ethereum "github.com/nebojsa94/erigon"
+	libcommon "github.com/nebojsa94/erigon-lib/common"
+	"github.com/nebojsa94/erigon/accounts/abi"
+	"github.com/nebojsa94/erigon/accounts/abi/bind"
+	"github.com/nebojsa94/erigon/core/types"
+	"github.com/nebojsa94/erigon/event"
 )
 
 // Reference imports to suppress errors if they are not otherwise used.

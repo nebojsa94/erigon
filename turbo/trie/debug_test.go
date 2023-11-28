@@ -24,10 +24,10 @@ import (
 	"testing"
 
 	"github.com/holiman/uint256"
-	libcommon "github.com/ledgerwatch/erigon-lib/common"
+	libcommon "github.com/nebojsa94/erigon-lib/common"
 
-	"github.com/ledgerwatch/erigon/common"
-	"github.com/ledgerwatch/erigon/core/types/accounts"
+	"github.com/nebojsa94/erigon/common"
+	"github.com/nebojsa94/erigon/core/types/accounts"
 )
 
 var debugTests = []struct {

@@ -1,7 +1,7 @@
 package flags
 
 import (
-	"github.com/ledgerwatch/erigon/cmd/utils"
+	"github.com/nebojsa94/erigon/cmd/utils"
 	"github.com/urfave/cli/v2"
 )
 

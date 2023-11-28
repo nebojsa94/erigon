@@ -1,10 +1,10 @@
 package graph
 
 import (
-	"github.com/ledgerwatch/erigon-lib/kv"
-	"github.com/ledgerwatch/erigon/turbo/jsonrpc"
-	"github.com/ledgerwatch/erigon/turbo/rpchelper"
-	"github.com/ledgerwatch/erigon/turbo/services"
+	"github.com/nebojsa94/erigon-lib/kv"
+	"github.com/nebojsa94/erigon/turbo/jsonrpc"
+	"github.com/nebojsa94/erigon/turbo/rpchelper"
+	"github.com/nebojsa94/erigon/turbo/services"
 )
 
 // This file will not be regenerated automatically.

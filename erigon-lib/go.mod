@@ -1,10 +1,10 @@
-module github.com/ledgerwatch/erigon-lib
+module github.com/nebojsa94/erigon-lib
 
 go 1.20
 
 require (
 	github.com/erigontech/mdbx-go v0.27.21
-	github.com/ledgerwatch/erigon-snapshot v1.3.1-0.20231120030929-7bcfed8fdd1a
+	github.com/nebojsa94/erigon-snapshot v1.3.1-0.20231120030929-7bcfed8fdd1a
 	github.com/ledgerwatch/interfaces v0.0.0-20231031050643-c86352e41520
 	github.com/ledgerwatch/log/v3 v3.9.0
 	github.com/ledgerwatch/secp256k1 v1.0.0

@@ -7,10 +7,10 @@ import (
 
 	"github.com/holiman/uint256"
 	jsoniter "github.com/json-iterator/go"
-	libcommon "github.com/ledgerwatch/erigon-lib/common"
+	libcommon "github.com/nebojsa94/erigon-lib/common"
 
-	"github.com/ledgerwatch/erigon/common"
-	"github.com/ledgerwatch/erigon/core/vm"
+	"github.com/nebojsa94/erigon/common"
+	"github.com/nebojsa94/erigon/core/vm"
 )
 
 // JsonStreamLogger is an EVM state logger and implements Tracer.

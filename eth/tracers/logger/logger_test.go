@@ -21,14 +21,14 @@ import (
 	"testing"
 
 	"github.com/holiman/uint256"
-	libcommon "github.com/ledgerwatch/erigon-lib/common"
+	libcommon "github.com/nebojsa94/erigon-lib/common"
 
-	"github.com/ledgerwatch/erigon/core/state"
-	"github.com/ledgerwatch/erigon/core/vm"
-	"github.com/ledgerwatch/erigon/core/vm/evmtypes"
+	"github.com/nebojsa94/erigon/core/state"
+	"github.com/nebojsa94/erigon/core/vm"
+	"github.com/nebojsa94/erigon/core/vm/evmtypes"
 
-	"github.com/ledgerwatch/erigon/core/vm/stack"
-	"github.com/ledgerwatch/erigon/params"
+	"github.com/nebojsa94/erigon/core/vm/stack"
+	"github.com/nebojsa94/erigon/params"
 )
 
 type dummyContractRef struct {

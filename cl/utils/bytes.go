@@ -17,7 +17,7 @@ import (
 	"encoding/binary"
 	"math/bits"
 
-	"github.com/ledgerwatch/erigon-lib/types/ssz"
+	"github.com/nebojsa94/erigon-lib/types/ssz"
 
 	"github.com/golang/snappy"
 )

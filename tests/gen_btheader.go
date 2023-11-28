@@ -6,11 +6,11 @@ import (
 	"encoding/json"
 	"math/big"
 
-	libcommon "github.com/ledgerwatch/erigon-lib/common"
-	"github.com/ledgerwatch/erigon-lib/common/hexutility"
+	libcommon "github.com/nebojsa94/erigon-lib/common"
+	"github.com/nebojsa94/erigon-lib/common/hexutility"
 
-	"github.com/ledgerwatch/erigon/common/math"
-	"github.com/ledgerwatch/erigon/core/types"
+	"github.com/nebojsa94/erigon/common/math"
+	"github.com/nebojsa94/erigon/core/types"
 )
 
 var _ = (*btHeaderMarshaling)(nil)

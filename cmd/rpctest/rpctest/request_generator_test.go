@@ -3,7 +3,7 @@ package rpctest
 import (
 	"testing"
 
-	libcommon "github.com/ledgerwatch/erigon-lib/common"
+	libcommon "github.com/nebojsa94/erigon-lib/common"
 	"github.com/stretchr/testify/require"
 )
 

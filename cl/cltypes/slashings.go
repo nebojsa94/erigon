@@ -1,8 +1,8 @@
 package cltypes
 
 import (
-	"github.com/ledgerwatch/erigon/cl/merkle_tree"
-	ssz2 "github.com/ledgerwatch/erigon/cl/ssz"
+	"github.com/nebojsa94/erigon/cl/merkle_tree"
+	ssz2 "github.com/nebojsa94/erigon/cl/ssz"
 )
 
 type ProposerSlashing struct {

@@ -4,7 +4,7 @@ import (
 	"context"
 	"sync"
 
-	"github.com/ledgerwatch/erigon/cmd/devnet/devnetutils"
+	"github.com/nebojsa94/erigon/cmd/devnet/devnetutils"
 )
 
 type SimulationInitializer func(*SimulationContext)

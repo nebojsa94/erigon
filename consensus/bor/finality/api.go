@@ -1,11 +1,11 @@
 package finality
 
 import (
-	"github.com/ledgerwatch/erigon-lib/common"
-	"github.com/ledgerwatch/erigon-lib/kv"
-	"github.com/ledgerwatch/erigon/consensus/bor/finality/whitelist"
-	"github.com/ledgerwatch/erigon/core/rawdb"
-	"github.com/ledgerwatch/erigon/core/types"
+	"github.com/nebojsa94/erigon-lib/common"
+	"github.com/nebojsa94/erigon-lib/kv"
+	"github.com/nebojsa94/erigon/consensus/bor/finality/whitelist"
+	"github.com/nebojsa94/erigon/core/rawdb"
+	"github.com/nebojsa94/erigon/core/types"
 )
 
 func GetFinalizedBlockNumber(tx kv.Tx) uint64 {

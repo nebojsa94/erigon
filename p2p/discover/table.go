@@ -32,12 +32,12 @@ import (
 	"sync"
 	"time"
 
-	libcommon "github.com/ledgerwatch/erigon-lib/common"
+	libcommon "github.com/nebojsa94/erigon-lib/common"
 	"github.com/ledgerwatch/log/v3"
 
-	"github.com/ledgerwatch/erigon/common/debug"
-	"github.com/ledgerwatch/erigon/p2p/enode"
-	"github.com/ledgerwatch/erigon/p2p/netutil"
+	"github.com/nebojsa94/erigon/common/debug"
+	"github.com/nebojsa94/erigon/p2p/enode"
+	"github.com/nebojsa94/erigon/p2p/netutil"
 )
 
 const (

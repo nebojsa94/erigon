@@ -3,8 +3,8 @@ package merkle_tree
 import (
 	"sync"
 
-	libcommon "github.com/ledgerwatch/erigon-lib/common"
-	"github.com/ledgerwatch/erigon/cl/utils"
+	libcommon "github.com/nebojsa94/erigon-lib/common"
+	"github.com/nebojsa94/erigon/cl/utils"
 	"github.com/prysmaticlabs/gohashtree"
 )
 

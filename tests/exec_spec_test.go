@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/ledgerwatch/erigon/eth/ethconfig"
+	"github.com/nebojsa94/erigon/eth/ethconfig"
 	"github.com/ledgerwatch/log/v3"
 )
 

@@ -23,13 +23,13 @@ import (
 	"math/big"
 
 	"github.com/holiman/uint256"
-	"github.com/ledgerwatch/erigon-lib/chain"
-	libcommon "github.com/ledgerwatch/erigon-lib/common"
-	"github.com/ledgerwatch/erigon/eth/gasprice/gaspricecfg"
+	"github.com/nebojsa94/erigon-lib/chain"
+	libcommon "github.com/nebojsa94/erigon-lib/common"
+	"github.com/nebojsa94/erigon/eth/gasprice/gaspricecfg"
 	"github.com/ledgerwatch/log/v3"
 
-	"github.com/ledgerwatch/erigon/core/types"
-	"github.com/ledgerwatch/erigon/rpc"
+	"github.com/nebojsa94/erigon/core/types"
+	"github.com/nebojsa94/erigon/rpc"
 )
 
 const sampleNumber = 3 // Number of transactions sampled in a block
