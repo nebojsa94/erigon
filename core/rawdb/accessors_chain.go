@@ -28,7 +28,8 @@ import (
 
 	"github.com/nebojsa94/erigon/erigon-lib/kv/dbutils"
 
-	"github.com/gballet/go-verkle"
+	"github.com/gballet/go-verkle/22/verkle"
+	"github.com/ledgerwatch/log/v3"
 	"github.com/nebojsa94/erigon/erigon-lib/common"
 	"github.com/nebojsa94/erigon/erigon-lib/common/cmp"
 	"github.com/nebojsa94/erigon/erigon-lib/common/dbg"
@@ -36,7 +37,6 @@ import (
 	"github.com/nebojsa94/erigon/erigon-lib/common/length"
 	"github.com/nebojsa94/erigon/erigon-lib/kv"
 	"github.com/nebojsa94/erigon/erigon-lib/kv/rawdbv3"
-	"github.com/ledgerwatch/log/v3"
 
 	"github.com/nebojsa94/erigon/core/types"
 	"github.com/nebojsa94/erigon/ethdb/cbor"

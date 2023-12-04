@@ -6,12 +6,12 @@ import (
 	"time"
 
 	"github.com/anacrolix/sync"
-	"github.com/gballet/go-verkle"
+	"github.com/gballet/go-verkle/22/verkle"
 	"github.com/holiman/uint256"
+	"github.com/ledgerwatch/log/v3"
 	libcommon "github.com/nebojsa94/erigon/erigon-lib/common"
 	"github.com/nebojsa94/erigon/erigon-lib/etl"
 	"github.com/nebojsa94/erigon/erigon-lib/kv"
-	"github.com/ledgerwatch/log/v3"
 
 	"github.com/nebojsa94/erigon/common"
 	"github.com/nebojsa94/erigon/core/rawdb"
