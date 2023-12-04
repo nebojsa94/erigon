@@ -28,7 +28,7 @@ import (
 
 	"github.com/nebojsa94/erigon/erigon-lib/kv/dbutils"
 
-	"github.com/gballet/go-verkle/22/verkle"
+	"github.com/NebojsaHorvat/go-verkle"
 	"github.com/ledgerwatch/log/v3"
 	"github.com/nebojsa94/erigon/erigon-lib/common"
 	"github.com/nebojsa94/erigon/erigon-lib/common/cmp"

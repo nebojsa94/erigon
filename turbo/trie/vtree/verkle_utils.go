@@ -1,8 +1,8 @@
 package vtree
 
 import (
+	"github.com/NebojsaHorvat/go-verkle"
 	"github.com/crate-crypto/go-ipa/bandersnatch/fr"
-	"github.com/gballet/go-verkle/22/verkle"
 	"github.com/holiman/uint256"
 )
 
