@@ -8,7 +8,7 @@ package types
 import (
 	"errors"
 	libcommon "github.com/nebojsa94/erigon/erigon-lib/common"
-	codec1978 "github.com/ugorji/go/codec"
+	codec1978 "github.com/NebojsaHorvat/go-codec/codec"
 	pkg2_big "math/big"
 	"runtime"
 	"strconv"

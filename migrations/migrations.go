@@ -7,12 +7,12 @@ import (
 	"github.com/nebojsa94/erigon/erigon-lib/common"
 	"path/filepath"
 
+	"github.com/NebojsaHorvat/go-codec/codec"
+	"github.com/ledgerwatch/log/v3"
+	"github.com/nebojsa94/erigon/core/rawdb"
 	"github.com/nebojsa94/erigon/erigon-lib/common/datadir"
 	"github.com/nebojsa94/erigon/erigon-lib/kv"
-	"github.com/nebojsa94/erigon/core/rawdb"
 	"github.com/nebojsa94/erigon/eth/stagedsync/stages"
-	"github.com/ledgerwatch/log/v3"
-	"github.com/ugorji/go/codec"
 )
 
 // migrations apply sequentially in order of this array, skips applied migrations

@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"io"
 
+	"github.com/NebojsaHorvat/go-codec/codec"
 	libcommon "github.com/nebojsa94/erigon/erigon-lib/common"
-	"github.com/ugorji/go/codec"
 )
 
 var cbor codec.CborHandle

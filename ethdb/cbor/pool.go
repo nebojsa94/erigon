@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"io"
 
+	"github.com/NebojsaHorvat/go-codec/codec"
 	"github.com/ledgerwatch/log/v3"
-	"github.com/ugorji/go/codec"
 )
 
 var logger = log.New("package", "cbor")
