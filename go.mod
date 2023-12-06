@@ -14,7 +14,7 @@ require (
 	github.com/Giulio2002/bls v0.0.0-20230906201036-c2330c97dc7d
 	github.com/NebojsaHorvat/go-codec/codec v1.1.14-0.20231205094829-5efd052441b9
 	github.com/NebojsaHorvat/go-verkle v0.0.0-20231204153811-ffd4a18e4ee9
-	github.com/NebojsaHorvat/secp256k1 v1.0.1-0.20231205150214-4d5374ffc07d
+	github.com/NebojsaHorvat/secp256k1 v1.0.1-0.20231206091644-dddadcfa41d1
 	github.com/RoaringBitmap/roaring v1.2.3
 	github.com/VictoriaMetrics/fastcache v1.12.1
 	github.com/alecthomas/kong v0.8.0
