@@ -5,7 +5,7 @@ go 1.20
 require (
 	github.com/erigontech/mdbx-go v0.27.21
 	github.com/ledgerwatch/log/v3 v3.9.0
-	github.com/ledgerwatch/secp256k1 v1.0.0
+//github.com/ledgerwatch/secp256k1 v1.0.0
 )
 
 require (
@@ -14,6 +14,7 @@ require (
 	github.com/Giulio2002/bls v0.0.0-20230906201036-c2330c97dc7d
 	github.com/NebojsaHorvat/go-codec/codec v1.1.14-0.20231205094829-5efd052441b9
 	github.com/NebojsaHorvat/go-verkle v0.0.0-20231204153811-ffd4a18e4ee9
+	github.com/NebojsaHorvat/secp256k1 v1.0.1-0.20231205150214-4d5374ffc07d
 	github.com/RoaringBitmap/roaring v1.2.3
 	github.com/VictoriaMetrics/fastcache v1.12.1
 	github.com/alecthomas/kong v0.8.0
@@ -77,7 +78,6 @@ require (
 	github.com/stretchr/testify v1.8.4
 	github.com/thomaso-mirodin/intmath v0.0.0-20160323211736-5dc6d854e46e
 	github.com/tidwall/btree v1.6.0
-	//github.com/ugorji/go/codec v1.1.13
 	github.com/ugorji/go/codec/codecgen v1.1.13
 	github.com/urfave/cli/v2 v2.25.7
 	github.com/valyala/fastjson v1.6.4
@@ -185,6 +185,7 @@ require (
 	github.com/kr/pretty v0.3.1 // indirect
 	github.com/kr/text v0.2.0 // indirect
 	github.com/ledgerwatch/erigon-snapshot v1.3.1-0.20231120030929-7bcfed8fdd1a // indirect
+	github.com/ledgerwatch/secp256k1 v1.0.0 // indirect
 	github.com/libp2p/go-buffer-pool v0.1.0 // indirect
 	github.com/libp2p/go-cidranger v1.1.0 // indirect
 	github.com/libp2p/go-flow-metrics v0.1.0 // indirect

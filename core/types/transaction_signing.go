@@ -22,10 +22,10 @@ import (
 	"fmt"
 	"math/big"
 
+	"github.com/NebojsaHorvat/secp256k1"
 	"github.com/holiman/uint256"
 	"github.com/nebojsa94/erigon/erigon-lib/chain"
 	libcommon "github.com/nebojsa94/erigon/erigon-lib/common"
-	"github.com/ledgerwatch/secp256k1"
 
 	"github.com/nebojsa94/erigon/common/u256"
 	"github.com/nebojsa94/erigon/crypto"

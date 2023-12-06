@@ -11,6 +11,9 @@ import (
 
 	"github.com/nebojsa94/erigon/erigon-lib/kv/dbutils"
 
+	"github.com/NebojsaHorvat/secp256k1"
+	"github.com/ledgerwatch/log/v3"
+	"github.com/nebojsa94/erigon/consensus"
 	"github.com/nebojsa94/erigon/erigon-lib/chain"
 	libcommon "github.com/nebojsa94/erigon/erigon-lib/common"
 	"github.com/nebojsa94/erigon/erigon-lib/common/cmp"
@@ -18,10 +21,7 @@ import (
 	"github.com/nebojsa94/erigon/erigon-lib/common/length"
 	"github.com/nebojsa94/erigon/erigon-lib/etl"
 	"github.com/nebojsa94/erigon/erigon-lib/kv"
-	"github.com/nebojsa94/erigon/consensus"
 	"github.com/nebojsa94/erigon/turbo/services"
-	"github.com/ledgerwatch/log/v3"
-	"github.com/ledgerwatch/secp256k1"
 
 	"github.com/nebojsa94/erigon/common/debug"
 	"github.com/nebojsa94/erigon/core/rawdb"
