@@ -22,13 +22,13 @@ import (
 	"encoding/binary"
 	"encoding/json"
 	"fmt"
+	"github.com/gballet/go-verkle/99"
 	"math"
 	"math/big"
 	"time"
 
 	"github.com/nebojsa94/erigon/erigon-lib/kv/dbutils"
 
-	"github.com/NebojsaHorvat/go-verkle"
 	"github.com/ledgerwatch/log/v3"
 	"github.com/nebojsa94/erigon/erigon-lib/common"
 	"github.com/nebojsa94/erigon/erigon-lib/common/cmp"

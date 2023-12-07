@@ -3,9 +3,9 @@ package verkletrie
 import (
 	"context"
 	"encoding/binary"
+	"github.com/gballet/go-verkle/99"
 	"time"
 
-	"github.com/NebojsaHorvat/go-verkle"
 	"github.com/anacrolix/sync"
 	"github.com/holiman/uint256"
 	"github.com/ledgerwatch/log/v3"

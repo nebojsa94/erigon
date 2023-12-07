@@ -22,6 +22,7 @@ import (
 	"encoding/binary"
 	"errors"
 	"fmt"
+	"github.com/gballet/go-verkle/99"
 	"io"
 	"math/big"
 	"reflect"
@@ -29,7 +30,6 @@ import (
 
 	"github.com/nebojsa94/erigon/erigon-lib/common/hexutil"
 
-	"github.com/NebojsaHorvat/go-verkle"
 	libcommon "github.com/nebojsa94/erigon/erigon-lib/common"
 	"github.com/nebojsa94/erigon/erigon-lib/common/hexutility"
 	rlp2 "github.com/nebojsa94/erigon/erigon-lib/rlp"
