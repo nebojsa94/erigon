@@ -10,6 +10,8 @@ require (
 
 replace github.com/gballet/go-verkle/99 => github.com/gballet/go-verkle v0.0.0-20221121182333-31427a1f2d35
 
+require github.com/gballet/go-verkle/99 v0.0.0
+
 require (
 	gfx.cafe/util/go/generic v0.0.0-20230721185457-c559e86c829c
 	github.com/99designs/gqlgen v0.17.33
@@ -36,7 +38,6 @@ require (
 	github.com/edsrzf/mmap-go v1.1.0
 	github.com/emicklei/dot v1.6.0
 	github.com/fjl/gencodec v0.0.0-20220412091415-8bb9e558978c
-	github.com/gballet/go-verkle/99 v0.0.0-20221121182333-31427a1f2d35
 	github.com/go-chi/chi/v5 v5.0.10
 	github.com/goccy/go-json v0.9.11
 	github.com/gofrs/flock v0.8.1
