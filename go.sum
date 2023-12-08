@@ -57,6 +57,8 @@ github.com/Giulio2002/bls v0.0.0-20230906201036-c2330c97dc7d h1:fAztVLpjcVcd2al4
 github.com/Giulio2002/bls v0.0.0-20230906201036-c2330c97dc7d/go.mod h1:nCQrFU6/QsJtLS+SBLWRn9UG2nds1f3hQKfWHCrtUqw=
 github.com/NebojsaHorvat/go-codec/codec v1.1.14-0.20231205094829-5efd052441b9 h1:m9CIlSnzgztxf57eo8W0ptTonRjMG9nN49iwtt/Npl0=
 github.com/NebojsaHorvat/go-codec/codec v1.1.14-0.20231205094829-5efd052441b9/go.mod h1:55cu7xem3TaLhsTuA70vaFzEEgtiuFRvddyMin7lUf0=
+github.com/NebojsaHorvat/go-verkle v0.0.0-20231204153811-ffd4a18e4ee9 h1:f63c8yMCdxm0cOwFk1yDR+7t/y3rJr/4CJVLCYg3MZY=
+github.com/NebojsaHorvat/go-verkle v0.0.0-20231204153811-ffd4a18e4ee9/go.mod h1:sw7fv3a4pf5deYhBMqn7N0HKTndH4JdLOYFbJedDuiU=
 github.com/NebojsaHorvat/secp256k1 v1.0.1-0.20231206092527-a22deedb2616 h1:vTJVM4ia4m9GZaHx93jy8roNmHsLNGYETO0NE4axupY=
 github.com/NebojsaHorvat/secp256k1 v1.0.1-0.20231206092527-a22deedb2616/go.mod h1:Od9r5FLWoioqwiszVJO0as4pihVUNZXq42W7PyaXQd0=
 github.com/RoaringBitmap/roaring v0.4.7/go.mod h1:8khRDP4HmeXns4xIj9oGrKSz7XTQiJx2zgh7AcNke4w=
@@ -310,8 +312,6 @@ github.com/fsnotify/fsnotify v1.5.4 h1:jRbGcIw6P2Meqdwuo0H1p6JVLbL5DHKAKlYndzMwV
 github.com/fsnotify/fsnotify v1.5.4/go.mod h1:OVB6XrOHzAwXMpEM7uPOzcehqUV2UqJxmVXmkdnm1bU=
 github.com/garslo/gogen v0.0.0-20170307003452-d6ebae628c7c h1:uYNKzPntb8c6DKvP9EfrBjkLkU7pM4lM+uuHSIa8UtU=
 github.com/garslo/gogen v0.0.0-20170307003452-d6ebae628c7c/go.mod h1:Q0X6pkwTILDlzrGEckF6HKjXe48EgsY/l7K7vhY4MW8=
-github.com/gballet/go-verkle v0.0.0-20221121182333-31427a1f2d35 h1:I8QswD9gf3VEpr7bpepKKOm7ChxFITIG+oc1I5/S0no=
-github.com/gballet/go-verkle v0.0.0-20221121182333-31427a1f2d35/go.mod h1:DMDd04jjQgdynaAwbEgiRERIGpC8fDjx0+y06an7Psg=
 github.com/ghodss/yaml v1.0.0/go.mod h1:4dBDuWmgqj2HViK6kFavaiC9ZROes6MMH2rRYeMEF04=
 github.com/gliderlabs/ssh v0.1.1/go.mod h1:U7qILu1NlMHj9FlMhZLlkCdDnU1DBEAqr0aevW3Awn0=
 github.com/glycerine/go-unsnap-stream v0.0.0-20180323001048-9f0cb55181dd/go.mod h1:/20jfyN9Y5QPEAprSgKAUr+glWDY39ZiUEAYOEv5dsE=

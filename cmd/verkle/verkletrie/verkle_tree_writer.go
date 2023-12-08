@@ -3,10 +3,10 @@ package verkletrie
 import (
 	"context"
 	"encoding/binary"
-	"github.com/gballet/go-verkle/99"
 	"time"
 
 	"github.com/anacrolix/sync"
+	"github.com/gballet/go-verkle"
 	"github.com/holiman/uint256"
 	"github.com/ledgerwatch/log/v3"
 	libcommon "github.com/nebojsa94/erigon/erigon-lib/common"
